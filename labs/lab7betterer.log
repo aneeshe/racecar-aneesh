@@ -1,0 +1,1948 @@
+22:30:01,143 root INFO Created racecar instance as rc
+22:30:02,173 root INFO Inside start function
+22:30:02,341 root INFO Inside Avoiding Walls function by using Lidar
+22:30:02,448 root INFO Inside Avoiding Walls function by using Lidar
+22:30:02,545 root INFO Inside Avoiding Walls function by using Lidar
+22:30:02,641 root INFO Inside Avoiding Walls function by using Lidar
+22:30:02,750 root INFO Inside Avoiding Walls function by using Lidar
+22:30:02,843 root INFO Inside Avoiding Walls function by using Lidar
+22:30:02,940 root INFO Inside Avoiding Walls function by using Lidar
+22:30:03,32 root INFO Inside Avoiding Walls function by using Lidar
+22:30:03,129 root INFO Inside Avoiding Walls function by using Lidar
+22:30:03,226 root INFO Inside Avoiding Walls function by using Lidar
+22:30:03,312 root INFO Inside Avoiding Walls function by using Lidar
+22:30:03,407 root INFO Inside Avoiding Walls function by using Lidar
+22:30:03,498 root INFO Inside Avoiding Walls function by using Lidar
+22:30:03,593 root INFO Inside Avoiding Walls function by using Lidar
+22:30:03,666 root INFO Inside Avoiding Walls function by using Lidar
+22:30:03,762 root INFO Inside Avoiding Walls function by using Lidar
+22:30:03,857 root INFO Inside Avoiding Walls function by using Lidar
+22:30:03,949 root INFO Inside Avoiding Walls function by using Lidar
+22:30:04,46 root INFO Inside Avoiding Walls function by using Lidar
+22:30:04,124 root INFO Inside Avoiding Walls function by using Lidar
+22:30:04,213 root INFO Inside Avoiding Walls function by using Lidar
+22:30:04,306 root INFO Inside Avoiding Walls function by using Lidar
+22:30:04,399 root INFO Inside Avoiding Walls function by using Lidar
+22:30:04,478 root INFO Inside Avoiding Walls function by using Lidar
+22:30:04,574 root INFO Inside Avoiding Walls function by using Lidar
+22:30:04,672 root INFO Inside Avoiding Walls function by using Lidar
+22:30:04,768 root INFO Inside Avoiding Walls function by using Lidar
+22:30:04,859 root INFO Inside Avoiding Walls function by using Lidar
+22:30:04,952 root INFO Inside Avoiding Walls function by using Lidar
+22:30:05,41 root INFO Inside Avoiding Walls function by using Lidar
+22:30:05,130 root INFO Inside Avoiding Walls function by using Lidar
+22:30:05,231 root INFO Inside Avoiding Walls function by using Lidar
+22:30:05,328 root INFO Inside Avoiding Walls function by using Lidar
+22:30:05,418 root INFO Inside Avoiding Walls function by using Lidar
+22:30:05,506 root INFO Inside Avoiding Walls function by using Lidar
+22:30:05,599 root INFO Inside Avoiding Walls function by using Lidar
+22:30:05,693 root INFO Inside Avoiding Walls function by using Lidar
+22:30:05,786 root INFO Inside Avoiding Walls function by using Lidar
+22:30:05,873 root INFO Inside Avoiding Walls function by using Lidar
+22:30:05,963 root INFO Inside Avoiding Walls function by using Lidar
+22:30:06,54 root INFO Inside Avoiding Walls function by using Lidar
+22:30:06,145 root INFO Inside Avoiding Walls function by using Lidar
+22:30:06,234 root INFO Inside Avoiding Walls function by using Lidar
+22:30:06,340 root INFO Inside Avoiding Walls function by using Lidar
+22:30:06,430 root INFO Inside Avoiding Walls function by using Lidar
+22:30:06,532 root INFO Inside Avoiding Walls function by using Lidar
+22:30:06,627 root INFO Inside Avoiding Walls function by using Lidar
+22:30:06,718 root INFO Inside Avoiding Walls function by using Lidar
+22:30:06,816 root INFO Inside Avoiding Walls function by using Lidar
+22:30:06,908 root INFO Inside Avoiding Walls function by using Lidar
+22:30:06,999 root INFO Inside Avoiding Walls function by using Lidar
+22:30:07,92 root INFO Inside Avoiding Walls function by using Lidar
+22:30:07,189 root INFO Inside Avoiding Walls function by using Lidar
+22:30:07,283 root INFO Inside Avoiding Walls function by using Lidar
+22:30:07,390 root INFO Inside Avoiding Walls function by using Lidar
+22:30:07,481 root INFO Inside Avoiding Walls function by using Lidar
+22:30:07,583 root INFO Inside Avoiding Walls function by using Lidar
+22:30:07,678 root INFO Inside Avoiding Walls function by using Lidar
+22:30:07,783 root INFO Inside Avoiding Walls function by using Lidar
+22:30:07,889 root INFO Inside Avoiding Walls function by using Lidar
+22:30:07,984 root INFO Inside Avoiding Walls function by using Lidar
+22:30:08,95 root INFO Inside Avoiding Walls function by using Lidar
+22:30:08,204 root INFO Inside Avoiding Walls function by using Lidar
+22:30:08,307 root INFO Inside Avoiding Walls function by using Lidar
+22:30:08,409 root INFO Inside Avoiding Walls function by using Lidar
+22:30:08,498 root INFO Inside Avoiding Walls function by using Lidar
+22:30:08,602 root INFO Inside Avoiding Walls function by using Lidar
+22:30:08,706 root INFO Inside Avoiding Walls function by using Lidar
+22:30:08,805 root INFO Inside Avoiding Walls function by using Lidar
+22:30:08,906 root INFO Inside Avoiding Walls function by using Lidar
+22:30:09,27 root INFO Inside Avoiding Walls function by using Lidar
+22:30:09,121 root INFO Inside Avoiding Walls function by using Lidar
+22:30:09,222 root INFO Inside Avoiding Walls function by using Lidar
+22:30:09,320 root INFO Inside Avoiding Walls function by using Lidar
+22:30:09,422 root INFO Inside Avoiding Walls function by using Lidar
+22:30:09,528 root INFO Inside Avoiding Walls function by using Lidar
+22:30:09,635 root INFO Inside Avoiding Walls function by using Lidar
+22:30:09,730 root INFO Inside Avoiding Walls function by using Lidar
+22:30:09,836 root INFO Inside Avoiding Walls function by using Lidar
+22:30:09,939 root INFO Inside Avoiding Walls function by using Lidar
+22:30:10,64 root INFO Inside Avoiding Walls function by using Lidar
+22:30:10,163 root INFO Inside Avoiding Walls function by using Lidar
+22:30:10,274 root INFO Inside Avoiding Walls function by using Lidar
+22:30:10,383 root INFO Inside Avoiding Walls function by using Lidar
+22:30:10,492 root INFO Inside Avoiding Walls function by using Lidar
+22:30:10,600 root INFO Inside Avoiding Walls function by using Lidar
+22:30:10,697 root INFO Inside Avoiding Walls function by using Lidar
+22:30:10,804 root INFO Inside Avoiding Walls function by using Lidar
+22:30:10,917 root INFO Inside Avoiding Walls function by using Lidar
+22:30:11,21 root INFO Inside Avoiding Walls function by using Lidar
+22:30:11,126 root INFO Inside Avoiding Walls function by using Lidar
+22:30:11,236 root INFO Inside Avoiding Walls function by using Lidar
+22:30:11,334 root INFO Inside Avoiding Walls function by using Lidar
+22:30:11,440 root INFO Inside Avoiding Walls function by using Lidar
+22:30:11,547 root INFO Inside Avoiding Walls function by using Lidar
+22:30:11,655 root INFO Inside Avoiding Walls function by using Lidar
+22:30:11,760 root INFO Inside Avoiding Walls function by using Lidar
+22:30:11,870 root INFO Inside Avoiding Walls function by using Lidar
+22:30:11,978 root INFO Inside Avoiding Walls function by using Lidar
+22:30:12,88 root INFO Inside Avoiding Walls function by using Lidar
+22:30:12,199 root INFO Inside Avoiding Walls function by using Lidar
+22:30:12,303 root INFO Inside Avoiding Walls function by using Lidar
+22:30:12,414 root INFO Inside Avoiding Walls function by using Lidar
+22:30:12,513 root INFO Inside Avoiding Walls function by using Lidar
+22:30:12,612 root INFO Inside Avoiding Walls function by using Lidar
+22:30:12,718 root INFO Inside Avoiding Walls function by using Lidar
+22:30:12,829 root INFO Inside Avoiding Walls function by using Lidar
+22:30:12,938 root INFO Inside Avoiding Walls function by using Lidar
+22:30:13,48 root INFO Inside Avoiding Walls function by using Lidar
+22:30:13,155 root INFO Inside Avoiding Walls function by using Lidar
+22:30:13,264 root INFO Inside Avoiding Walls function by using Lidar
+22:30:13,370 root INFO Inside Avoiding Walls function by using Lidar
+22:30:13,478 root INFO Inside Avoiding Walls function by using Lidar
+22:30:13,598 root INFO Inside Avoiding Walls function by using Lidar
+22:30:13,717 root INFO Inside Avoiding Walls function by using Lidar
+22:30:13,829 root INFO Inside Avoiding Walls function by using Lidar
+22:30:13,935 root INFO Inside Avoiding Walls function by using Lidar
+22:30:14,52 root INFO Inside Avoiding Walls function by using Lidar
+22:30:14,157 root INFO Inside Avoiding Walls function by using Lidar
+22:30:14,267 root INFO Inside Avoiding Walls function by using Lidar
+22:30:14,385 root INFO Inside Avoiding Walls function by using Lidar
+22:30:14,508 root INFO Inside Avoiding Walls function by using Lidar
+22:30:14,611 root INFO Inside Avoiding Walls function by using Lidar
+22:30:14,729 root INFO Inside Avoiding Walls function by using Lidar
+22:30:14,835 root INFO Inside Avoiding Walls function by using Lidar
+22:30:14,941 root INFO Inside Avoiding Walls function by using Lidar
+22:30:15,54 root INFO Inside Avoiding Walls function by using Lidar
+22:30:15,169 root INFO Inside Avoiding Walls function by using Lidar
+22:30:15,283 root INFO Inside Avoiding Walls function by using Lidar
+22:30:15,390 root INFO Inside Avoiding Walls function by using Lidar
+22:30:15,505 root INFO Inside Avoiding Walls function by using Lidar
+22:30:15,619 root INFO Inside Avoiding Walls function by using Lidar
+22:30:15,733 root INFO Inside Avoiding Walls function by using Lidar
+22:30:15,848 root INFO Inside Avoiding Walls function by using Lidar
+22:30:15,952 root INFO Inside Avoiding Walls function by using Lidar
+22:30:16,87 root INFO Inside Avoiding Walls function by using Lidar
+22:30:16,193 root INFO Inside Avoiding Walls function by using Lidar
+22:30:16,298 root INFO Inside Avoiding Walls function by using Lidar
+22:30:16,407 root INFO Inside Avoiding Walls function by using Lidar
+22:30:16,520 root INFO Inside Avoiding Walls function by using Lidar
+22:30:16,631 root INFO Inside Avoiding Walls function by using Lidar
+22:30:16,745 root INFO Inside Avoiding Walls function by using Lidar
+22:30:16,848 root INFO Inside Avoiding Walls function by using Lidar
+22:30:16,951 root INFO Inside Avoiding Walls function by using Lidar
+22:30:17,71 root INFO Inside Avoiding Walls function by using Lidar
+22:30:17,175 root INFO Inside Avoiding Walls function by using Lidar
+22:30:17,278 root INFO Inside Avoiding Walls function by using Lidar
+22:30:17,386 root INFO Inside Avoiding Walls function by using Lidar
+22:30:17,496 root INFO Inside Avoiding Walls function by using Lidar
+22:30:17,599 root INFO Inside Avoiding Walls function by using Lidar
+22:30:17,713 root INFO Inside Avoiding Walls function by using Lidar
+22:30:17,816 root INFO Inside Avoiding Walls function by using Lidar
+22:30:17,941 root INFO Inside Avoiding Walls function by using Lidar
+22:30:18,43 root INFO Inside Avoiding Walls function by using Lidar
+22:30:18,181 root INFO Inside Avoiding Walls function by using Lidar
+22:30:18,290 root INFO Inside Avoiding Walls function by using Lidar
+22:30:18,400 root INFO Inside Avoiding Walls function by using Lidar
+22:30:18,505 root INFO Inside Avoiding Walls function by using Lidar
+22:30:18,610 root INFO Inside Avoiding Walls function by using Lidar
+22:30:18,713 root INFO Inside Avoiding Walls function by using Lidar
+22:30:18,820 root INFO Inside Avoiding Walls function by using Lidar
+22:30:18,930 root INFO Inside Avoiding Walls function by using Lidar
+22:30:19,32 root INFO Inside Avoiding Walls function by using Lidar
+22:30:19,146 root INFO Inside Avoiding Walls function by using Lidar
+22:30:19,242 root INFO Inside Avoiding Walls function by using Lidar
+22:30:19,347 root INFO Inside Avoiding Walls function by using Lidar
+22:30:19,447 root INFO Inside Avoiding Walls function by using Lidar
+22:30:19,544 root INFO Inside Avoiding Walls function by using Lidar
+22:30:19,650 root INFO Inside Avoiding Walls function by using Lidar
+22:30:19,758 root INFO Inside Avoiding Walls function by using Lidar
+22:30:19,862 root INFO Inside Avoiding Walls function by using Lidar
+22:30:19,968 root INFO Inside Avoiding Walls function by using Lidar
+22:30:20,83 root INFO Inside Avoiding Walls function by using Lidar
+22:30:20,193 root INFO Inside Avoiding Walls function by using Lidar
+22:30:20,298 root INFO Inside Avoiding Walls function by using Lidar
+22:30:20,408 root INFO Inside Avoiding Walls function by using Lidar
+22:30:20,508 root INFO Inside Avoiding Walls function by using Lidar
+22:30:20,617 root INFO Inside Avoiding Walls function by using Lidar
+22:30:20,718 root INFO Inside Avoiding Walls function by using Lidar
+22:30:20,827 root INFO Inside Avoiding Walls function by using Lidar
+22:30:20,951 root INFO Inside Avoiding Walls function by using Lidar
+22:30:21,57 root INFO Inside Avoiding Walls function by using Lidar
+22:30:21,164 root INFO Inside Avoiding Walls function by using Lidar
+22:30:21,266 root INFO Inside Avoiding Walls function by using Lidar
+22:30:21,368 root INFO Inside Avoiding Walls function by using Lidar
+22:30:21,467 root INFO Inside Avoiding Walls function by using Lidar
+22:30:21,585 root INFO Inside Avoiding Walls function by using Lidar
+22:30:21,688 root INFO Inside Avoiding Walls function by using Lidar
+22:30:21,790 root INFO Inside Avoiding Walls function by using Lidar
+22:30:21,909 root INFO Inside Avoiding Walls function by using Lidar
+22:30:22,25 root INFO Inside Avoiding Walls function by using Lidar
+22:30:22,135 root INFO Inside Avoiding Walls function by using Lidar
+22:30:22,240 root INFO Inside Avoiding Walls function by using Lidar
+22:30:22,348 root INFO Inside Avoiding Walls function by using Lidar
+22:30:22,451 root INFO Inside Avoiding Walls function by using Lidar
+22:30:22,556 root INFO Inside Avoiding Walls function by using Lidar
+22:30:22,659 root INFO Inside Avoiding Walls function by using Lidar
+22:30:22,771 root INFO Inside Avoiding Walls function by using Lidar
+22:30:22,878 root INFO Inside Avoiding Walls function by using Lidar
+22:30:22,978 root INFO Inside Avoiding Walls function by using Lidar
+22:30:23,75 root INFO Inside Avoiding Walls function by using Lidar
+22:30:23,182 root INFO Inside Avoiding Walls function by using Lidar
+22:30:23,288 root INFO Inside Avoiding Walls function by using Lidar
+22:30:23,390 root INFO Inside Avoiding Walls function by using Lidar
+22:30:23,510 root INFO Inside Avoiding Walls function by using Lidar
+22:30:23,619 root INFO Inside Avoiding Walls function by using Lidar
+22:30:23,719 root INFO Inside Avoiding Walls function by using Lidar
+22:30:23,821 root INFO Inside Avoiding Walls function by using Lidar
+22:30:23,917 root INFO Inside Avoiding Walls function by using Lidar
+22:30:24,22 root INFO Inside Avoiding Walls function by using Lidar
+22:30:24,116 root INFO Inside Avoiding Walls function by using Lidar
+22:30:24,230 root INFO Inside Avoiding Walls function by using Lidar
+22:30:24,330 root INFO Inside Avoiding Walls function by using Lidar
+22:30:24,443 root INFO Inside Avoiding Walls function by using Lidar
+22:30:24,535 root INFO Inside Avoiding Walls function by using Lidar
+22:30:24,631 root INFO Inside Avoiding Walls function by using Lidar
+22:30:24,736 root INFO Inside Avoiding Walls function by using Lidar
+22:30:24,838 root INFO Inside Avoiding Walls function by using Lidar
+22:30:24,931 root INFO Inside Avoiding Walls function by using Lidar
+22:30:25,36 root INFO Inside Avoiding Walls function by using Lidar
+22:30:25,136 root INFO Inside Avoiding Walls function by using Lidar
+22:30:25,237 root INFO Inside Avoiding Walls function by using Lidar
+22:30:25,334 root INFO Inside Avoiding Walls function by using Lidar
+22:30:25,437 root INFO Inside Avoiding Walls function by using Lidar
+22:30:25,528 root INFO Inside Avoiding Walls function by using Lidar
+22:30:25,616 root INFO Inside Avoiding Walls function by using Lidar
+22:30:25,719 root INFO Inside Avoiding Walls function by using Lidar
+22:30:25,808 root INFO Inside Avoiding Walls function by using Lidar
+22:30:25,905 root INFO Inside Avoiding Walls function by using Lidar
+22:30:25,999 root INFO Inside Avoiding Walls function by using Lidar
+22:30:26,95 root INFO Inside Avoiding Walls function by using Lidar
+22:30:26,203 root INFO Inside Avoiding Walls function by using Lidar
+22:30:26,297 root INFO Inside Avoiding Walls function by using Lidar
+22:30:26,384 root INFO Inside Avoiding Walls function by using Lidar
+22:30:26,474 root INFO Inside Avoiding Walls function by using Lidar
+22:30:26,565 root INFO Inside Avoiding Walls function by using Lidar
+22:30:26,654 root INFO Inside Avoiding Walls function by using Lidar
+22:30:26,755 root INFO Inside Avoiding Walls function by using Lidar
+22:30:26,848 root INFO Inside Avoiding Walls function by using Lidar
+22:30:26,941 root INFO Inside Avoiding Walls function by using Lidar
+22:30:27,39 root INFO Inside Avoiding Walls function by using Lidar
+22:30:27,131 root INFO Inside Avoiding Walls function by using Lidar
+22:30:27,233 root INFO Inside Avoiding Walls function by using Lidar
+22:30:27,335 root INFO Inside Avoiding Walls function by using Lidar
+22:30:27,432 root INFO Inside Avoiding Walls function by using Lidar
+22:30:27,526 root INFO Inside Avoiding Walls function by using Lidar
+22:30:27,618 root INFO Inside Avoiding Walls function by using Lidar
+22:30:27,715 root INFO Inside Avoiding Walls function by using Lidar
+22:30:27,814 root INFO Inside Avoiding Walls function by using Lidar
+22:30:27,911 root INFO Inside Avoiding Walls function by using Lidar
+22:30:28,8 root INFO Inside Avoiding Walls function by using Lidar
+22:30:28,105 root INFO Inside Avoiding Walls function by using Lidar
+22:30:28,193 root INFO Inside Avoiding Walls function by using Lidar
+22:30:28,296 root INFO Inside Avoiding Walls function by using Lidar
+22:30:28,393 root INFO Detecting AR Marker which tell us to switch to going between Lines
+22:30:28,394 root INFO Inside between_lines function using the color camera for color detection and tracking
+22:30:28,944 root INFO Detecting AR Marker which tell us to switch to going between Lines
+22:30:28,944 root INFO Inside between_lines function using the color camera for color detection and tracking
+22:30:29,81 root INFO Detecting AR Marker which tell us to switch to going between Lines
+22:30:29,82 root INFO Inside between_lines function using the color camera for color detection and tracking
+22:30:29,192 root INFO Inside between_lines function using the color camera for color detection and tracking
+22:30:29,310 root INFO Inside between_lines function using the color camera for color detection and tracking
+22:30:29,420 root INFO Inside between_lines function using the color camera for color detection and tracking
+22:30:29,534 root INFO Inside between_lines function using the color camera for color detection and tracking
+22:30:29,640 root INFO Inside between_lines function using the color camera for color detection and tracking
+22:30:29,747 root INFO Inside between_lines function using the color camera for color detection and tracking
+22:30:29,856 root INFO Inside between_lines function using the color camera for color detection and tracking
+22:30:29,964 root INFO Inside between_lines function using the color camera for color detection and tracking
+22:30:30,74 root INFO Inside between_lines function using the color camera for color detection and tracking
+22:30:30,182 root INFO Inside between_lines function using the color camera for color detection and tracking
+22:30:30,278 root INFO Inside between_lines function using the color camera for color detection and tracking
+22:30:30,384 root INFO Inside between_lines function using the color camera for color detection and tracking
+22:30:30,497 root INFO Inside between_lines function using the color camera for color detection and tracking
+22:30:30,612 root INFO Inside between_lines function using the color camera for color detection and tracking
+22:30:30,721 root INFO Inside between_lines function using the color camera for color detection and tracking
+22:30:30,823 root INFO Inside between_lines function using the color camera for color detection and tracking
+22:30:30,939 root INFO Inside between_lines function using the color camera for color detection and tracking
+22:30:31,46 root INFO Inside between_lines function using the color camera for color detection and tracking
+22:30:31,154 root INFO Inside between_lines function using the color camera for color detection and tracking
+22:30:31,255 root INFO Inside between_lines function using the color camera for color detection and tracking
+22:30:31,368 root INFO Inside between_lines function using the color camera for color detection and tracking
+22:30:31,477 root INFO Inside between_lines function using the color camera for color detection and tracking
+22:30:31,608 root INFO Inside between_lines function using the color camera for color detection and tracking
+22:30:31,709 root INFO Inside between_lines function using the color camera for color detection and tracking
+22:30:31,838 root INFO Inside between_lines function using the color camera for color detection and tracking
+22:30:31,980 root INFO Inside between_lines function using the color camera for color detection and tracking
+22:30:32,76 root INFO Inside between_lines function using the color camera for color detection and tracking
+22:30:32,189 root INFO Inside between_lines function using the color camera for color detection and tracking
+22:30:32,294 root INFO Inside between_lines function using the color camera for color detection and tracking
+22:30:32,407 root INFO Inside between_lines function using the color camera for color detection and tracking
+22:30:32,505 root INFO Inside between_lines function using the color camera for color detection and tracking
+22:30:32,608 root INFO Inside between_lines function using the color camera for color detection and tracking
+22:30:32,713 root INFO Inside between_lines function using the color camera for color detection and tracking
+22:30:32,818 root INFO Inside between_lines function using the color camera for color detection and tracking
+22:30:32,929 root INFO Inside between_lines function using the color camera for color detection and tracking
+22:30:33,40 root INFO Inside between_lines function using the color camera for color detection and tracking
+22:30:33,139 root INFO Inside between_lines function using the color camera for color detection and tracking
+22:30:33,245 root INFO Inside between_lines function using the color camera for color detection and tracking
+22:30:33,385 root INFO Inside between_lines function using the color camera for color detection and tracking
+22:30:33,494 root INFO Inside between_lines function using the color camera for color detection and tracking
+22:30:33,608 root INFO Inside between_lines function using the color camera for color detection and tracking
+22:30:33,707 root INFO Inside between_lines function using the color camera for color detection and tracking
+22:30:33,811 root INFO Inside between_lines function using the color camera for color detection and tracking
+22:30:33,919 root INFO Inside between_lines function using the color camera for color detection and tracking
+22:30:34,25 root INFO Inside between_lines function using the color camera for color detection and tracking
+22:30:34,137 root INFO Inside between_lines function using the color camera for color detection and tracking
+22:30:34,238 root INFO Inside between_lines function using the color camera for color detection and tracking
+22:30:34,339 root INFO Inside between_lines function using the color camera for color detection and tracking
+22:30:34,458 root INFO Inside between_lines function using the color camera for color detection and tracking
+22:30:34,570 root INFO Inside between_lines function using the color camera for color detection and tracking
+22:30:34,677 root INFO Inside between_lines function using the color camera for color detection and tracking
+22:30:34,786 root INFO Inside between_lines function using the color camera for color detection and tracking
+22:30:34,888 root INFO Inside between_lines function using the color camera for color detection and tracking
+22:30:34,998 root INFO Inside between_lines function using the color camera for color detection and tracking
+22:30:35,117 root INFO Inside between_lines function using the color camera for color detection and tracking
+22:30:35,249 root INFO Inside between_lines function using the color camera for color detection and tracking
+22:30:35,365 root INFO Inside between_lines function using the color camera for color detection and tracking
+22:30:35,505 root INFO Inside between_lines function using the color camera for color detection and tracking
+22:30:35,607 root INFO Inside between_lines function using the color camera for color detection and tracking
+22:30:35,716 root INFO Inside between_lines function using the color camera for color detection and tracking
+22:30:35,832 root INFO Inside between_lines function using the color camera for color detection and tracking
+22:30:35,932 root INFO Inside between_lines function using the color camera for color detection and tracking
+22:30:36,38 root INFO Inside between_lines function using the color camera for color detection and tracking
+22:30:36,154 root INFO Inside between_lines function using the color camera for color detection and tracking
+22:30:36,275 root INFO Inside between_lines function using the color camera for color detection and tracking
+22:30:36,385 root INFO Inside between_lines function using the color camera for color detection and tracking
+22:30:36,499 root INFO Inside between_lines function using the color camera for color detection and tracking
+22:30:36,608 root INFO Inside between_lines function using the color camera for color detection and tracking
+22:30:36,715 root INFO Inside between_lines function using the color camera for color detection and tracking
+22:30:36,822 root INFO Inside between_lines function using the color camera for color detection and tracking
+22:30:36,922 root INFO Inside between_lines function using the color camera for color detection and tracking
+22:30:37,48 root INFO Inside between_lines function using the color camera for color detection and tracking
+22:30:37,162 root INFO Inside between_lines function using the color camera for color detection and tracking
+22:30:37,268 root INFO Inside between_lines function using the color camera for color detection and tracking
+22:30:37,382 root INFO Inside between_lines function using the color camera for color detection and tracking
+22:30:37,496 root INFO Inside between_lines function using the color camera for color detection and tracking
+22:30:37,604 root INFO Inside between_lines function using the color camera for color detection and tracking
+22:30:37,708 root INFO Inside between_lines function using the color camera for color detection and tracking
+22:30:37,834 root INFO Inside between_lines function using the color camera for color detection and tracking
+22:30:37,943 root INFO Inside between_lines function using the color camera for color detection and tracking
+22:30:38,62 root INFO Inside between_lines function using the color camera for color detection and tracking
+22:30:38,173 root INFO Inside between_lines function using the color camera for color detection and tracking
+22:30:38,276 root INFO Inside between_lines function using the color camera for color detection and tracking
+22:30:38,392 root INFO Inside between_lines function using the color camera for color detection and tracking
+22:30:38,522 root INFO Inside between_lines function using the color camera for color detection and tracking
+22:30:38,633 root INFO Inside between_lines function using the color camera for color detection and tracking
+22:30:38,742 root INFO Inside between_lines function using the color camera for color detection and tracking
+22:30:38,870 root INFO Inside between_lines function using the color camera for color detection and tracking
+22:30:38,976 root INFO Inside between_lines function using the color camera for color detection and tracking
+22:30:39,100 root INFO Inside between_lines function using the color camera for color detection and tracking
+22:30:39,211 root INFO Inside between_lines function using the color camera for color detection and tracking
+22:30:39,319 root INFO Inside between_lines function using the color camera for color detection and tracking
+22:30:39,432 root INFO Inside between_lines function using the color camera for color detection and tracking
+22:30:39,548 root INFO Inside between_lines function using the color camera for color detection and tracking
+22:30:39,665 root INFO Inside between_lines function using the color camera for color detection and tracking
+22:30:39,772 root INFO Inside between_lines function using the color camera for color detection and tracking
+22:30:39,881 root INFO Inside between_lines function using the color camera for color detection and tracking
+22:30:39,987 root INFO Inside between_lines function using the color camera for color detection and tracking
+22:30:40,101 root INFO Inside between_lines function using the color camera for color detection and tracking
+22:30:40,213 root INFO Inside between_lines function using the color camera for color detection and tracking
+22:30:40,321 root INFO Inside between_lines function using the color camera for color detection and tracking
+22:30:40,418 root INFO Inside between_lines function using the color camera for color detection and tracking
+22:30:40,523 root INFO Inside between_lines function using the color camera for color detection and tracking
+22:30:40,647 root INFO Inside between_lines function using the color camera for color detection and tracking
+22:30:40,754 root INFO Inside between_lines function using the color camera for color detection and tracking
+22:30:40,865 root INFO Inside between_lines function using the color camera for color detection and tracking
+22:30:40,985 root INFO Inside between_lines function using the color camera for color detection and tracking
+22:30:41,104 root INFO Inside between_lines function using the color camera for color detection and tracking
+22:30:41,228 root INFO Inside between_lines function using the color camera for color detection and tracking
+22:30:41,336 root INFO Inside between_lines function using the color camera for color detection and tracking
+22:30:41,444 root INFO Inside between_lines function using the color camera for color detection and tracking
+22:30:41,544 root INFO Inside between_lines function using the color camera for color detection and tracking
+22:30:41,656 root INFO Inside between_lines function using the color camera for color detection and tracking
+22:30:41,757 root INFO Inside between_lines function using the color camera for color detection and tracking
+22:30:41,875 root INFO Inside between_lines function using the color camera for color detection and tracking
+22:30:41,986 root INFO Inside between_lines function using the color camera for color detection and tracking
+22:30:42,100 root INFO Inside between_lines function using the color camera for color detection and tracking
+22:30:42,207 root INFO Inside between_lines function using the color camera for color detection and tracking
+22:30:42,316 root INFO Inside between_lines function using the color camera for color detection and tracking
+22:30:42,426 root INFO Inside between_lines function using the color camera for color detection and tracking
+22:30:42,525 root INFO Inside between_lines function using the color camera for color detection and tracking
+22:30:42,639 root INFO Inside between_lines function using the color camera for color detection and tracking
+22:30:42,758 root INFO Inside between_lines function using the color camera for color detection and tracking
+22:30:42,856 root INFO Inside between_lines function using the color camera for color detection and tracking
+22:30:42,972 root INFO Inside between_lines function using the color camera for color detection and tracking
+22:30:43,75 root INFO Inside between_lines function using the color camera for color detection and tracking
+22:30:43,191 root INFO Inside between_lines function using the color camera for color detection and tracking
+22:30:43,294 root INFO Inside between_lines function using the color camera for color detection and tracking
+22:30:43,403 root INFO Inside between_lines function using the color camera for color detection and tracking
+22:30:43,511 root INFO Inside between_lines function using the color camera for color detection and tracking
+22:30:43,622 root INFO Inside between_lines function using the color camera for color detection and tracking
+22:30:43,731 root INFO Inside between_lines function using the color camera for color detection and tracking
+22:30:43,850 root INFO Inside between_lines function using the color camera for color detection and tracking
+22:30:43,962 root INFO Inside between_lines function using the color camera for color detection and tracking
+22:30:44,94 root INFO Inside between_lines function using the color camera for color detection and tracking
+22:30:44,202 root INFO Inside between_lines function using the color camera for color detection and tracking
+22:30:44,300 root INFO Inside between_lines function using the color camera for color detection and tracking
+22:30:44,411 root INFO Inside between_lines function using the color camera for color detection and tracking
+22:30:44,514 root INFO Inside between_lines function using the color camera for color detection and tracking
+22:30:44,617 root INFO Inside between_lines function using the color camera for color detection and tracking
+22:30:44,722 root INFO Inside between_lines function using the color camera for color detection and tracking
+22:30:44,828 root INFO Inside between_lines function using the color camera for color detection and tracking
+22:30:44,953 root INFO Inside between_lines function using the color camera for color detection and tracking
+22:30:45,55 root INFO Inside between_lines function using the color camera for color detection and tracking
+22:30:45,167 root INFO Inside between_lines function using the color camera for color detection and tracking
+22:30:45,266 root INFO Inside between_lines function using the color camera for color detection and tracking
+22:30:45,378 root INFO Inside between_lines function using the color camera for color detection and tracking
+22:30:45,477 root INFO Inside between_lines function using the color camera for color detection and tracking
+22:30:45,589 root INFO Inside between_lines function using the color camera for color detection and tracking
+22:30:45,697 root INFO Inside between_lines function using the color camera for color detection and tracking
+22:30:45,804 root INFO Inside between_lines function using the color camera for color detection and tracking
+22:30:45,902 root INFO Inside between_lines function using the color camera for color detection and tracking
+22:30:46,22 root INFO Inside between_lines function using the color camera for color detection and tracking
+22:30:46,152 root INFO Inside between_lines function using the color camera for color detection and tracking
+22:30:46,259 root INFO Inside between_lines function using the color camera for color detection and tracking
+22:30:46,389 root INFO Inside between_lines function using the color camera for color detection and tracking
+22:30:46,528 root INFO Inside between_lines function using the color camera for color detection and tracking
+22:30:46,675 root INFO Inside between_lines function using the color camera for color detection and tracking
+22:30:46,785 root INFO Inside between_lines function using the color camera for color detection and tracking
+22:30:46,907 root INFO Inside between_lines function using the color camera for color detection and tracking
+22:30:47,20 root INFO Inside between_lines function using the color camera for color detection and tracking
+22:30:47,125 root INFO Inside between_lines function using the color camera for color detection and tracking
+22:30:47,242 root INFO Inside between_lines function using the color camera for color detection and tracking
+22:30:47,354 root INFO Inside between_lines function using the color camera for color detection and tracking
+22:30:47,466 root INFO Inside between_lines function using the color camera for color detection and tracking
+22:30:47,567 root INFO Inside between_lines function using the color camera for color detection and tracking
+22:30:47,690 root INFO Inside between_lines function using the color camera for color detection and tracking
+22:30:47,806 root INFO Inside between_lines function using the color camera for color detection and tracking
+22:30:47,923 root INFO Inside between_lines function using the color camera for color detection and tracking
+22:30:48,57 root INFO Inside between_lines function using the color camera for color detection and tracking
+22:30:48,179 root INFO Inside between_lines function using the color camera for color detection and tracking
+22:30:48,297 root INFO Inside between_lines function using the color camera for color detection and tracking
+22:30:48,429 root INFO Inside between_lines function using the color camera for color detection and tracking
+22:30:48,564 root INFO Inside between_lines function using the color camera for color detection and tracking
+22:30:48,661 root INFO Inside between_lines function using the color camera for color detection and tracking
+22:30:48,778 root INFO Inside between_lines function using the color camera for color detection and tracking
+22:30:48,879 root INFO Inside between_lines function using the color camera for color detection and tracking
+22:30:48,984 root INFO Inside between_lines function using the color camera for color detection and tracking
+22:30:49,95 root INFO Inside between_lines function using the color camera for color detection and tracking
+22:30:49,205 root INFO Inside between_lines function using the color camera for color detection and tracking
+22:30:49,313 root INFO Inside between_lines function using the color camera for color detection and tracking
+22:30:49,416 root INFO Inside between_lines function using the color camera for color detection and tracking
+22:30:49,526 root INFO Inside between_lines function using the color camera for color detection and tracking
+22:30:49,641 root INFO Inside between_lines function using the color camera for color detection and tracking
+22:30:49,753 root INFO Inside between_lines function using the color camera for color detection and tracking
+22:30:49,871 root INFO Inside between_lines function using the color camera for color detection and tracking
+22:30:49,988 root INFO Inside between_lines function using the color camera for color detection and tracking
+22:30:50,87 root INFO Inside between_lines function using the color camera for color detection and tracking
+22:30:50,201 root INFO Inside between_lines function using the color camera for color detection and tracking
+22:30:50,326 root INFO Inside between_lines function using the color camera for color detection and tracking
+22:30:50,443 root INFO Inside between_lines function using the color camera for color detection and tracking
+22:30:50,555 root INFO Inside between_lines function using the color camera for color detection and tracking
+22:30:50,669 root INFO Inside between_lines function using the color camera for color detection and tracking
+22:30:50,773 root INFO Inside between_lines function using the color camera for color detection and tracking
+22:30:50,886 root INFO Inside between_lines function using the color camera for color detection and tracking
+22:30:50,996 root INFO Inside between_lines function using the color camera for color detection and tracking
+22:30:51,103 root INFO Inside between_lines function using the color camera for color detection and tracking
+22:30:51,208 root INFO Inside between_lines function using the color camera for color detection and tracking
+22:30:51,326 root INFO Inside between_lines function using the color camera for color detection and tracking
+22:30:51,438 root INFO Inside between_lines function using the color camera for color detection and tracking
+22:30:51,552 root INFO Inside between_lines function using the color camera for color detection and tracking
+22:30:51,683 root INFO Inside between_lines function using the color camera for color detection and tracking
+22:30:51,786 root INFO Inside between_lines function using the color camera for color detection and tracking
+22:30:51,904 root INFO Inside between_lines function using the color camera for color detection and tracking
+22:30:52,14 root INFO Inside between_lines function using the color camera for color detection and tracking
+22:30:52,119 root INFO Inside between_lines function using the color camera for color detection and tracking
+22:30:52,237 root INFO Inside between_lines function using the color camera for color detection and tracking
+22:30:52,346 root INFO Inside between_lines function using the color camera for color detection and tracking
+22:30:52,452 root INFO Inside between_lines function using the color camera for color detection and tracking
+22:30:52,551 root INFO Inside between_lines function using the color camera for color detection and tracking
+22:30:52,669 root INFO Inside between_lines function using the color camera for color detection and tracking
+22:30:52,787 root INFO Inside between_lines function using the color camera for color detection and tracking
+22:30:52,900 root INFO Inside between_lines function using the color camera for color detection and tracking
+22:30:53,14 root INFO Inside between_lines function using the color camera for color detection and tracking
+22:30:53,113 root INFO Inside between_lines function using the color camera for color detection and tracking
+22:30:53,232 root INFO Inside between_lines function using the color camera for color detection and tracking
+22:30:53,336 root INFO Inside between_lines function using the color camera for color detection and tracking
+22:30:53,449 root INFO Inside between_lines function using the color camera for color detection and tracking
+22:30:53,556 root INFO Inside between_lines function using the color camera for color detection and tracking
+22:30:53,698 root INFO Inside between_lines function using the color camera for color detection and tracking
+22:30:53,798 root INFO Inside between_lines function using the color camera for color detection and tracking
+22:30:53,915 root INFO Inside between_lines function using the color camera for color detection and tracking
+22:30:54,54 root INFO Inside between_lines function using the color camera for color detection and tracking
+22:30:54,178 root INFO Inside between_lines function using the color camera for color detection and tracking
+22:30:54,286 root INFO Inside between_lines function using the color camera for color detection and tracking
+22:30:54,408 root INFO Inside between_lines function using the color camera for color detection and tracking
+22:30:54,516 root INFO Inside between_lines function using the color camera for color detection and tracking
+22:30:54,610 root INFO Inside between_lines function using the color camera for color detection and tracking
+22:30:54,713 root INFO Inside between_lines function using the color camera for color detection and tracking
+22:30:54,834 root INFO Inside between_lines function using the color camera for color detection and tracking
+22:30:54,933 root INFO Inside between_lines function using the color camera for color detection and tracking
+22:30:55,44 root INFO Inside between_lines function using the color camera for color detection and tracking
+22:30:55,172 root INFO Inside between_lines function using the color camera for color detection and tracking
+22:30:55,287 root INFO Inside between_lines function using the color camera for color detection and tracking
+22:30:55,390 root INFO Inside between_lines function using the color camera for color detection and tracking
+22:30:55,508 root INFO Inside between_lines function using the color camera for color detection and tracking
+22:30:55,635 root INFO Inside between_lines function using the color camera for color detection and tracking
+22:30:55,739 root INFO Inside between_lines function using the color camera for color detection and tracking
+22:30:55,865 root INFO Inside between_lines function using the color camera for color detection and tracking
+22:30:55,991 root INFO Inside between_lines function using the color camera for color detection and tracking
+22:30:56,128 root INFO Inside between_lines function using the color camera for color detection and tracking
+22:30:56,241 root INFO Inside between_lines function using the color camera for color detection and tracking
+22:30:56,373 root INFO Inside between_lines function using the color camera for color detection and tracking
+22:30:56,497 root INFO Inside between_lines function using the color camera for color detection and tracking
+22:30:56,615 root INFO Inside between_lines function using the color camera for color detection and tracking
+22:30:56,736 root INFO Inside between_lines function using the color camera for color detection and tracking
+22:30:56,853 root INFO Inside between_lines function using the color camera for color detection and tracking
+22:30:56,969 root INFO Inside between_lines function using the color camera for color detection and tracking
+22:30:57,84 root INFO Inside between_lines function using the color camera for color detection and tracking
+22:30:57,202 root INFO Inside between_lines function using the color camera for color detection and tracking
+22:30:57,307 root INFO Inside between_lines function using the color camera for color detection and tracking
+22:30:57,424 root INFO Inside between_lines function using the color camera for color detection and tracking
+22:30:57,537 root INFO Inside between_lines function using the color camera for color detection and tracking
+22:30:57,681 root INFO Inside between_lines function using the color camera for color detection and tracking
+22:30:57,803 root INFO Inside between_lines function using the color camera for color detection and tracking
+22:30:57,914 root INFO Inside between_lines function using the color camera for color detection and tracking
+22:30:58,32 root INFO Inside between_lines function using the color camera for color detection and tracking
+22:30:58,151 root INFO Inside between_lines function using the color camera for color detection and tracking
+22:30:58,258 root INFO Inside between_lines function using the color camera for color detection and tracking
+22:30:58,376 root INFO Inside between_lines function using the color camera for color detection and tracking
+22:30:58,480 root INFO Inside between_lines function using the color camera for color detection and tracking
+22:30:58,592 root INFO Inside between_lines function using the color camera for color detection and tracking
+22:30:58,711 root INFO Inside between_lines function using the color camera for color detection and tracking
+22:30:58,827 root INFO Inside between_lines function using the color camera for color detection and tracking
+22:30:58,929 root INFO Inside between_lines function using the color camera for color detection and tracking
+22:30:59,71 root INFO Inside between_lines function using the color camera for color detection and tracking
+22:30:59,181 root INFO Inside between_lines function using the color camera for color detection and tracking
+22:30:59,287 root INFO Inside between_lines function using the color camera for color detection and tracking
+22:30:59,397 root INFO Inside between_lines function using the color camera for color detection and tracking
+22:30:59,521 root INFO Inside between_lines function using the color camera for color detection and tracking
+22:30:59,634 root INFO Inside between_lines function using the color camera for color detection and tracking
+22:30:59,748 root INFO Inside between_lines function using the color camera for color detection and tracking
+22:30:59,854 root INFO Inside between_lines function using the color camera for color detection and tracking
+22:30:59,996 root INFO Inside between_lines function using the color camera for color detection and tracking
+22:31:00,102 root INFO Inside between_lines function using the color camera for color detection and tracking
+22:31:00,215 root INFO Inside between_lines function using the color camera for color detection and tracking
+22:31:00,320 root INFO Inside between_lines function using the color camera for color detection and tracking
+22:31:00,429 root INFO Inside between_lines function using the color camera for color detection and tracking
+22:31:00,552 root INFO Inside between_lines function using the color camera for color detection and tracking
+22:31:00,684 root INFO Inside between_lines function using the color camera for color detection and tracking
+22:31:00,805 root INFO Inside between_lines function using the color camera for color detection and tracking
+22:31:00,926 root INFO Inside between_lines function using the color camera for color detection and tracking
+22:31:01,36 root INFO Inside between_lines function using the color camera for color detection and tracking
+22:31:01,153 root INFO Inside between_lines function using the color camera for color detection and tracking
+22:31:01,273 root INFO Inside between_lines function using the color camera for color detection and tracking
+22:31:01,386 root INFO Inside between_lines function using the color camera for color detection and tracking
+22:31:01,494 root INFO Inside between_lines function using the color camera for color detection and tracking
+22:31:01,641 root INFO Inside between_lines function using the color camera for color detection and tracking
+22:31:01,746 root INFO Inside between_lines function using the color camera for color detection and tracking
+22:31:01,863 root INFO Inside between_lines function using the color camera for color detection and tracking
+22:31:01,975 root INFO Inside between_lines function using the color camera for color detection and tracking
+22:31:02,83 root INFO Inside between_lines function using the color camera for color detection and tracking
+22:31:02,190 root INFO Inside between_lines function using the color camera for color detection and tracking
+22:31:02,321 root INFO Detecting AR Marker which tell us to switch to avoid Natural colored obstacles
+22:31:02,324 root INFO Inside Avoiding Walls function by using Lidar
+22:31:02,418 root INFO Detecting AR Marker which tell us to switch to avoid Natural colored obstacles
+22:31:02,418 root INFO Inside Avoiding Walls function by using Lidar
+22:31:02,526 root INFO Detecting AR Marker which tell us to switch to avoid Natural colored obstacles
+22:31:02,527 root INFO Inside Avoiding Walls function by using Lidar
+22:31:02,633 root INFO Detecting AR Marker which tell us to switch to avoid Natural colored obstacles
+22:31:02,634 root INFO Inside Avoiding Walls function by using Lidar
+22:31:02,733 root INFO Detecting AR Marker which tell us to switch to avoid Natural colored obstacles
+22:31:02,734 root INFO Inside Avoiding Walls function by using Lidar
+22:31:02,832 root INFO Inside Avoiding Walls function by using Lidar
+22:31:02,953 root INFO Inside Avoiding Walls function by using Lidar
+22:31:03,53 root INFO Detecting AR Marker which tell us to switch to avoid Natural colored obstacles
+22:31:03,54 root INFO Inside Avoiding Walls function by using Lidar
+22:31:03,148 root INFO Detecting AR Marker which tell us to switch to avoid Natural colored obstacles
+22:31:03,149 root INFO Inside Avoiding Walls function by using Lidar
+22:31:03,244 root INFO Detecting AR Marker which tell us to switch to avoid Natural colored obstacles
+22:31:03,245 root INFO Inside Avoiding Walls function by using Lidar
+22:31:03,333 root INFO Detecting AR Marker which tell us to switch to avoid Natural colored obstacles
+22:31:03,334 root INFO Inside Avoiding Walls function by using Lidar
+22:31:03,438 root INFO Detecting AR Marker which tell us to switch to avoid Natural colored obstacles
+22:31:03,440 root INFO Inside Avoiding Walls function by using Lidar
+22:31:03,542 root INFO Inside Avoiding Walls function by using Lidar
+22:31:03,639 root INFO Inside Avoiding Walls function by using Lidar
+22:31:03,746 root INFO Inside Avoiding Walls function by using Lidar
+22:31:03,846 root INFO Inside Avoiding Walls function by using Lidar
+22:31:03,847 root INFO Detecting AR Markers which tell us to switch to line following
+22:31:03,932 root INFO Inside Avoiding Walls function by using Lidar
+22:31:03,934 root INFO Detecting AR Markers which tell us to switch to line following
+22:31:04,27 root INFO Inside Avoiding Walls function by using Lidar
+22:31:04,28 root INFO Detecting AR Markers which tell us to switch to line following
+22:31:04,124 root INFO Inside Avoiding Walls function by using Lidar
+22:31:04,125 root INFO Detecting AR Markers which tell us to switch to line following
+22:31:04,217 root INFO Inside Avoiding Walls function by using Lidar
+22:31:04,219 root INFO Detecting AR Markers which tell us to switch to line following
+22:31:04,315 root INFO Inside Avoiding Walls function by using Lidar
+22:31:04,316 root INFO Detecting AR Markers which tell us to switch to line following
+22:31:04,411 root INFO Inside Avoiding Walls function by using Lidar
+22:31:04,412 root INFO Detecting AR Markers which tell us to switch to line following
+22:31:04,515 root INFO Inside Avoiding Walls function by using Lidar
+22:31:04,516 root INFO Detecting AR Markers which tell us to switch to line following
+22:31:04,614 root INFO Inside Avoiding Walls function by using Lidar
+22:31:04,616 root INFO Detecting AR Markers which tell us to switch to line following
+22:31:04,703 root INFO Inside Avoiding Walls function by using Lidar
+22:31:04,705 root INFO Detecting AR Markers which tell us to switch to line following
+22:31:04,791 root INFO Inside Avoiding Walls function by using Lidar
+22:31:04,792 root INFO Detecting AR Markers which tell us to switch to line following
+22:31:04,883 root INFO Inside Avoiding Walls function by using Lidar
+22:31:04,884 root INFO Detecting AR Markers which tell us to switch to line following
+22:31:04,978 root INFO Inside Avoiding Walls function by using Lidar
+22:31:04,980 root INFO Detecting AR Markers which tell us to switch to line following
+22:31:05,83 root INFO Inside Avoiding Walls function by using Lidar
+22:31:05,85 root INFO Detecting AR Markers which tell us to switch to line following
+22:31:05,175 root INFO Inside Avoiding Walls function by using Lidar
+22:31:05,177 root INFO Detecting AR Markers which tell us to switch to line following
+22:31:05,266 root INFO Inside Avoiding Walls function by using Lidar
+22:31:05,267 root INFO Detecting AR Markers which tell us to switch to line following
+22:31:05,375 root INFO Inside Avoiding Walls function by using Lidar
+22:31:05,376 root INFO Detecting AR Markers which tell us to switch to line following
+22:31:05,477 root INFO Inside Avoiding Walls function by using Lidar
+22:31:05,478 root INFO Detecting AR Markers which tell us to switch to line following
+22:31:05,576 root INFO Inside Avoiding Walls function by using Lidar
+22:31:05,578 root INFO Detecting AR Markers which tell us to switch to line following
+22:31:05,669 root INFO Inside Avoiding Walls function by using Lidar
+22:31:05,670 root INFO Detecting AR Markers which tell us to switch to line following
+22:31:05,767 root INFO Inside Avoiding Walls function by using Lidar
+22:31:05,769 root INFO Detecting AR Markers which tell us to switch to line following
+22:31:05,854 root INFO Inside Avoiding Walls function by using Lidar
+22:31:05,856 root INFO Detecting AR Markers which tell us to switch to line following
+22:31:05,957 root INFO Inside Avoiding Walls function by using Lidar
+22:31:05,958 root INFO Detecting AR Markers which tell us to switch to line following
+22:31:06,47 root INFO Inside Avoiding Walls function by using Lidar
+22:31:06,49 root INFO Detecting AR Markers which tell us to switch to line following
+22:31:06,143 root INFO Inside Avoiding Walls function by using Lidar
+22:31:06,144 root INFO Detecting AR Markers which tell us to switch to line following
+22:31:06,243 root INFO Inside Avoiding Walls function by using Lidar
+22:31:06,244 root INFO Detecting AR Markers which tell us to switch to line following
+22:31:06,341 root INFO Inside Avoiding Walls function by using Lidar
+22:31:06,343 root INFO Detecting AR Markers which tell us to switch to line following
+22:31:06,444 root INFO Inside Avoiding Walls function by using Lidar
+22:31:06,445 root INFO Detecting AR Markers which tell us to switch to line following
+22:31:06,537 root INFO Inside Avoiding Walls function by using Lidar
+22:31:06,538 root INFO Detecting AR Markers which tell us to switch to line following
+22:31:06,646 root INFO Inside Avoiding Walls function by using Lidar
+22:31:06,647 root INFO Detecting AR Markers which tell us to switch to line following
+22:31:06,741 root INFO Inside Avoiding Walls function by using Lidar
+22:31:06,742 root INFO Detecting AR Markers which tell us to switch to line following
+22:31:06,849 root INFO Inside Avoiding Walls function by using Lidar
+22:31:06,851 root INFO Detecting AR Markers which tell us to switch to line following
+22:31:06,945 root INFO Inside Avoiding Walls function by using Lidar
+22:31:06,946 root INFO Detecting AR Markers which tell us to switch to line following
+22:31:07,48 root INFO Inside Avoiding Walls function by using Lidar
+22:31:07,49 root INFO Detecting AR Markers which tell us to switch to line following
+22:31:07,159 root INFO Inside Avoiding Walls function by using Lidar
+22:31:07,160 root INFO Detecting AR Markers which tell us to switch to line following
+22:31:07,266 root INFO Inside Avoiding Walls function by using Lidar
+22:31:07,267 root INFO Detecting AR Markers which tell us to switch to line following
+22:31:07,359 root INFO Inside Avoiding Walls function by using Lidar
+22:31:07,360 root INFO Detecting AR Markers which tell us to switch to line following
+22:31:07,463 root INFO Inside Avoiding Walls function by using Lidar
+22:31:07,464 root INFO Detecting AR Markers which tell us to switch to line following
+22:31:07,559 root INFO Inside Avoiding Walls function by using Lidar
+22:31:07,560 root INFO Detecting AR Markers which tell us to switch to line following
+22:31:07,661 root INFO Inside Avoiding Walls function by using Lidar
+22:31:07,663 root INFO Detecting AR Markers which tell us to switch to line following
+22:31:07,765 root INFO Inside Avoiding Walls function by using Lidar
+22:31:07,766 root INFO Detecting AR Markers which tell us to switch to line following
+22:31:07,873 root INFO Inside Avoiding Walls function by using Lidar
+22:31:07,874 root INFO Detecting AR Markers which tell us to switch to line following
+22:31:07,980 root INFO Inside Avoiding Walls function by using Lidar
+22:31:07,982 root INFO Detecting AR Markers which tell us to switch to line following
+22:31:08,78 root INFO Inside Avoiding Walls function by using Lidar
+22:31:08,79 root INFO Detecting AR Markers which tell us to switch to line following
+22:31:08,191 root INFO Inside Avoiding Walls function by using Lidar
+22:31:08,193 root INFO Detecting AR Markers which tell us to switch to line following
+22:31:08,302 root INFO Inside Avoiding Walls function by using Lidar
+22:31:08,303 root INFO Detecting AR Markers which tell us to switch to line following
+22:31:08,412 root INFO Inside Avoiding Walls function by using Lidar
+22:31:08,413 root INFO Detecting AR Markers which tell us to switch to line following
+22:31:08,526 root INFO Inside Avoiding Walls function by using Lidar
+22:31:08,527 root INFO Detecting AR Markers which tell us to switch to line following
+22:31:08,620 root INFO Inside Avoiding Walls function by using Lidar
+22:31:08,621 root INFO Detecting AR Markers which tell us to switch to line following
+22:31:08,726 root INFO Inside Avoiding Walls function by using Lidar
+22:31:08,728 root INFO Detecting AR Markers which tell us to switch to line following
+22:31:08,822 root INFO Inside Avoiding Walls function by using Lidar
+22:31:08,823 root INFO Detecting AR Markers which tell us to switch to line following
+22:31:08,927 root INFO Inside Avoiding Walls function by using Lidar
+22:31:08,929 root INFO Detecting AR Markers which tell us to switch to line following
+22:31:09,27 root INFO Inside Avoiding Walls function by using Lidar
+22:31:09,29 root INFO Detecting AR Markers which tell us to switch to line following
+22:31:09,127 root INFO Inside Avoiding Walls function by using Lidar
+22:31:09,128 root INFO Detecting AR Markers which tell us to switch to line following
+22:31:09,232 root INFO Inside Avoiding Walls function by using Lidar
+22:31:09,234 root INFO Detecting AR Markers which tell us to switch to line following
+22:31:09,337 root INFO Inside Avoiding Walls function by using Lidar
+22:31:09,338 root INFO Detecting AR Markers which tell us to switch to line following
+22:31:09,433 root INFO Inside Avoiding Walls function by using Lidar
+22:31:09,434 root INFO Detecting AR Markers which tell us to switch to line following
+22:31:09,536 root INFO Inside Avoiding Walls function by using Lidar
+22:31:09,537 root INFO Detecting AR Markers which tell us to switch to line following
+22:31:09,632 root INFO Inside Avoiding Walls function by using Lidar
+22:31:09,633 root INFO Detecting AR Markers which tell us to switch to line following
+22:31:09,742 root INFO Inside Avoiding Walls function by using Lidar
+22:31:09,743 root INFO Detecting AR Markers which tell us to switch to line following
+22:31:09,847 root INFO Inside Avoiding Walls function by using Lidar
+22:31:09,848 root INFO Detecting AR Markers which tell us to switch to line following
+22:31:09,959 root INFO Inside Avoiding Walls function by using Lidar
+22:31:09,960 root INFO Detecting AR Markers which tell us to switch to line following
+22:31:10,49 root INFO Inside Avoiding Walls function by using Lidar
+22:31:10,51 root INFO Detecting AR Markers which tell us to switch to line following
+22:31:10,152 root INFO Inside Avoiding Walls function by using Lidar
+22:31:10,154 root INFO Detecting AR Markers which tell us to switch to line following
+22:31:10,258 root INFO Inside Avoiding Walls function by using Lidar
+22:31:10,259 root INFO Detecting AR Markers which tell us to switch to line following
+22:31:10,365 root INFO Inside Avoiding Walls function by using Lidar
+22:31:10,366 root INFO Detecting AR Markers which tell us to switch to line following
+22:31:10,465 root INFO Inside Avoiding Walls function by using Lidar
+22:31:10,466 root INFO Detecting AR Markers which tell us to switch to line following
+22:31:10,575 root INFO Inside Avoiding Walls function by using Lidar
+22:31:10,576 root INFO Detecting AR Markers which tell us to switch to line following
+22:31:10,672 root INFO Inside Avoiding Walls function by using Lidar
+22:31:10,673 root INFO Detecting AR Markers which tell us to switch to line following
+22:31:10,782 root INFO Inside Avoiding Walls function by using Lidar
+22:31:10,783 root INFO Detecting AR Markers which tell us to switch to line following
+22:31:10,911 root INFO Inside Avoiding Walls function by using Lidar
+22:31:10,913 root INFO Detecting AR Markers which tell us to switch to line following
+22:31:11,12 root INFO Inside Avoiding Walls function by using Lidar
+22:31:11,14 root INFO Detecting AR Markers which tell us to switch to line following
+22:31:11,122 root INFO Inside Avoiding Walls function by using Lidar
+22:31:11,124 root INFO Detecting AR Markers which tell us to switch to line following
+22:31:11,239 root INFO Inside Avoiding Walls function by using Lidar
+22:31:11,241 root INFO Detecting AR Markers which tell us to switch to line following
+22:31:11,337 root INFO Inside Avoiding Walls function by using Lidar
+22:31:11,338 root INFO Detecting AR Markers which tell us to switch to line following
+22:31:11,443 root INFO Inside Avoiding Walls function by using Lidar
+22:31:11,445 root INFO Detecting AR Markers which tell us to switch to line following
+22:31:11,540 root INFO Inside Avoiding Walls function by using Lidar
+22:31:11,542 root INFO Detecting AR Markers which tell us to switch to line following
+22:31:11,646 root INFO Inside Avoiding Walls function by using Lidar
+22:31:11,648 root INFO Detecting AR Markers which tell us to switch to line following
+22:31:11,757 root INFO Inside Avoiding Walls function by using Lidar
+22:31:11,758 root INFO Detecting AR Markers which tell us to switch to line following
+22:31:11,857 root INFO Inside Avoiding Walls function by using Lidar
+22:31:11,858 root INFO Detecting AR Markers which tell us to switch to line following
+22:31:11,954 root INFO Inside Avoiding Walls function by using Lidar
+22:31:11,956 root INFO Detecting AR Markers which tell us to switch to line following
+22:31:12,46 root INFO Inside Avoiding Walls function by using Lidar
+22:31:12,47 root INFO Detecting AR Markers which tell us to switch to line following
+22:31:12,145 root INFO Inside Avoiding Walls function by using Lidar
+22:31:12,146 root INFO Detecting AR Markers which tell us to switch to line following
+22:31:12,255 root INFO Inside Avoiding Walls function by using Lidar
+22:31:12,256 root INFO Detecting AR Markers which tell us to switch to line following
+22:31:12,353 root INFO Inside Avoiding Walls function by using Lidar
+22:31:12,354 root INFO Detecting AR Markers which tell us to switch to line following
+22:31:12,457 root INFO Inside Avoiding Walls function by using Lidar
+22:31:12,458 root INFO Detecting AR Markers which tell us to switch to line following
+22:31:12,568 root INFO Inside Avoiding Walls function by using Lidar
+22:31:12,569 root INFO Detecting AR Markers which tell us to switch to line following
+22:31:12,669 root INFO Inside Avoiding Walls function by using Lidar
+22:31:12,670 root INFO Detecting AR Markers which tell us to switch to line following
+22:31:12,773 root INFO Inside Avoiding Walls function by using Lidar
+22:31:12,774 root INFO Detecting AR Markers which tell us to switch to line following
+22:31:12,882 root INFO Inside Avoiding Walls function by using Lidar
+22:31:12,883 root INFO Detecting AR Markers which tell us to switch to line following
+22:31:12,987 root INFO Inside Avoiding Walls function by using Lidar
+22:31:12,988 root INFO Detecting AR Markers which tell us to switch to line following
+22:31:13,92 root INFO Inside Avoiding Walls function by using Lidar
+22:31:13,93 root INFO Detecting AR Markers which tell us to switch to line following
+22:31:13,197 root INFO Inside Avoiding Walls function by using Lidar
+22:31:13,198 root INFO Detecting AR Markers which tell us to switch to line following
+22:31:13,305 root INFO Inside Avoiding Walls function by using Lidar
+22:31:13,306 root INFO Detecting AR Markers which tell us to switch to line following
+22:31:13,406 root INFO Inside Avoiding Walls function by using Lidar
+22:31:13,407 root INFO Detecting AR Markers which tell us to switch to line following
+22:31:13,510 root INFO Inside Avoiding Walls function by using Lidar
+22:31:13,511 root INFO Detecting AR Markers which tell us to switch to line following
+22:31:13,605 root INFO Inside Avoiding Walls function by using Lidar
+22:31:13,607 root INFO Detecting AR Markers which tell us to switch to line following
+22:31:13,706 root INFO Inside Avoiding Walls function by using Lidar
+22:31:13,707 root INFO Detecting AR Markers which tell us to switch to line following
+22:31:13,808 root INFO Inside Avoiding Walls function by using Lidar
+22:31:13,810 root INFO Detecting AR Markers which tell us to switch to line following
+22:31:13,945 root INFO Inside Avoiding Walls function by using Lidar
+22:31:13,947 root INFO Detecting AR Markers which tell us to switch to line following
+22:31:14,43 root INFO Inside Avoiding Walls function by using Lidar
+22:31:14,44 root INFO Detecting AR Markers which tell us to switch to line following
+22:31:14,137 root INFO Inside Avoiding Walls function by using Lidar
+22:31:14,138 root INFO Detecting AR Markers which tell us to switch to line following
+22:31:14,231 root INFO Inside Avoiding Walls function by using Lidar
+22:31:14,232 root INFO Detecting AR Markers which tell us to switch to line following
+22:31:14,325 root INFO Inside Avoiding Walls function by using Lidar
+22:31:14,326 root INFO Detecting AR Markers which tell us to switch to line following
+22:31:14,415 root INFO Inside Avoiding Walls function by using Lidar
+22:31:14,416 root INFO Detecting AR Markers which tell us to switch to line following
+22:31:14,507 root INFO Inside Avoiding Walls function by using Lidar
+22:31:14,509 root INFO Detecting AR Markers which tell us to switch to line following
+22:31:14,617 root INFO Inside Avoiding Walls function by using Lidar
+22:31:14,618 root INFO Detecting AR Markers which tell us to switch to line following
+22:31:14,709 root INFO Inside Avoiding Walls function by using Lidar
+22:31:14,710 root INFO Detecting AR Markers which tell us to switch to line following
+22:31:14,807 root INFO Inside Avoiding Walls function by using Lidar
+22:31:14,808 root INFO Detecting AR Markers which tell us to switch to line following
+22:31:14,903 root INFO Inside Avoiding Walls function by using Lidar
+22:31:14,904 root INFO Detecting AR Markers which tell us to switch to line following
+22:31:15,2 root INFO Inside Avoiding Walls function by using Lidar
+22:31:15,3 root INFO Detecting AR Markers which tell us to switch to line following
+22:31:15,109 root INFO Inside Avoiding Walls function by using Lidar
+22:31:15,111 root INFO Detecting AR Markers which tell us to switch to line following
+22:31:15,212 root INFO Inside Avoiding Walls function by using Lidar
+22:31:15,214 root INFO Detecting AR Markers which tell us to switch to line following
+22:31:15,313 root INFO Inside Avoiding Walls function by using Lidar
+22:31:15,314 root INFO Detecting AR Markers which tell us to switch to line following
+22:31:15,417 root INFO Inside Avoiding Walls function by using Lidar
+22:31:15,418 root INFO Detecting AR Markers which tell us to switch to line following
+22:31:15,513 root INFO Inside Avoiding Walls function by using Lidar
+22:31:15,514 root INFO Detecting AR Markers which tell us to switch to line following
+22:31:15,611 root INFO Inside Avoiding Walls function by using Lidar
+22:31:15,612 root INFO Detecting AR Markers which tell us to switch to line following
+22:31:15,703 root INFO Inside Avoiding Walls function by using Lidar
+22:31:15,704 root INFO Detecting AR Markers which tell us to switch to line following
+22:31:15,801 root INFO Inside Avoiding Walls function by using Lidar
+22:31:15,802 root INFO Detecting AR Markers which tell us to switch to line following
+22:31:15,900 root INFO Inside Avoiding Walls function by using Lidar
+22:31:15,902 root INFO Detecting AR Markers which tell us to switch to line following
+22:31:15,994 root INFO Inside Avoiding Walls function by using Lidar
+22:31:15,995 root INFO Detecting AR Markers which tell us to switch to line following
+22:31:16,94 root INFO Inside Avoiding Walls function by using Lidar
+22:31:16,95 root INFO Detecting AR Markers which tell us to switch to line following
+22:31:16,193 root INFO Inside Avoiding Walls function by using Lidar
+22:31:16,194 root INFO Detecting AR Markers which tell us to switch to line following
+22:31:16,299 root INFO Inside Avoiding Walls function by using Lidar
+22:31:16,301 root INFO Detecting AR Markers which tell us to switch to line following
+22:31:16,407 root INFO Inside Avoiding Walls function by using Lidar
+22:31:16,408 root INFO Detecting AR Markers which tell us to switch to line following
+22:31:16,516 root INFO Inside Avoiding Walls function by using Lidar
+22:31:16,517 root INFO Detecting AR Markers which tell us to switch to line following
+22:31:16,616 root INFO Inside Avoiding Walls function by using Lidar
+22:31:16,618 root INFO Detecting AR Markers which tell us to switch to line following
+22:31:16,738 root INFO Inside Avoiding Walls function by using Lidar
+22:31:16,740 root INFO Detecting AR Markers which tell us to switch to line following
+22:31:16,847 root INFO Inside Avoiding Walls function by using Lidar
+22:31:16,849 root INFO Detecting AR Markers which tell us to switch to line following
+22:31:16,939 root INFO Inside Avoiding Walls function by using Lidar
+22:31:16,940 root INFO Detecting AR Markers which tell us to switch to line following
+22:31:17,38 root INFO Inside Avoiding Walls function by using Lidar
+22:31:17,40 root INFO Detecting AR Markers which tell us to switch to line following
+22:31:17,135 root INFO Inside Avoiding Walls function by using Lidar
+22:31:17,137 root INFO Detecting AR Markers which tell us to switch to line following
+22:31:17,227 root INFO Inside Avoiding Walls function by using Lidar
+22:31:17,228 root INFO Detecting AR Markers which tell us to switch to line following
+22:31:17,330 root INFO Inside Avoiding Walls function by using Lidar
+22:31:17,332 root INFO Detecting AR Markers which tell us to switch to line following
+22:31:17,431 root INFO Inside Avoiding Walls function by using Lidar
+22:31:17,432 root INFO Detecting AR Markers which tell us to switch to line following
+22:31:17,530 root INFO Inside Avoiding Walls function by using Lidar
+22:31:17,531 root INFO Detecting AR Markers which tell us to switch to line following
+22:31:17,632 root INFO Inside Avoiding Walls function by using Lidar
+22:31:17,634 root INFO Detecting AR Markers which tell us to switch to line following
+22:31:17,734 root INFO Inside Avoiding Walls function by using Lidar
+22:31:17,736 root INFO Detecting AR Markers which tell us to switch to line following
+22:31:17,837 root INFO Inside Avoiding Walls function by using Lidar
+22:31:17,838 root INFO Detecting AR Markers which tell us to switch to line following
+22:31:17,963 root INFO Inside Avoiding Walls function by using Lidar
+22:31:17,965 root INFO Detecting AR Markers which tell us to switch to line following
+22:31:18,55 root INFO Inside Avoiding Walls function by using Lidar
+22:31:18,57 root INFO Detecting AR Markers which tell us to switch to line following
+22:31:18,154 root INFO Inside Avoiding Walls function by using Lidar
+22:31:18,155 root INFO Detecting AR Markers which tell us to switch to line following
+22:31:18,242 root INFO Inside Avoiding Walls function by using Lidar
+22:31:18,244 root INFO Detecting AR Markers which tell us to switch to line following
+22:31:18,343 root INFO Inside Avoiding Walls function by using Lidar
+22:31:18,345 root INFO Detecting AR Markers which tell us to switch to line following
+22:31:18,439 root INFO Inside Avoiding Walls function by using Lidar
+22:31:18,440 root INFO Detecting AR Markers which tell us to switch to line following
+22:31:18,540 root INFO Inside Avoiding Walls function by using Lidar
+22:31:18,541 root INFO Detecting AR Markers which tell us to switch to line following
+22:31:18,631 root INFO Inside Avoiding Walls function by using Lidar
+22:31:18,632 root INFO Detecting AR Markers which tell us to switch to line following
+22:31:18,741 root INFO Inside Avoiding Walls function by using Lidar
+22:31:18,742 root INFO Detecting AR Markers which tell us to switch to line following
+22:31:18,829 root INFO Inside Avoiding Walls function by using Lidar
+22:31:18,830 root INFO Detecting AR Markers which tell us to switch to line following
+22:31:18,935 root INFO Inside Avoiding Walls function by using Lidar
+22:31:18,937 root INFO Detecting AR Markers which tell us to switch to line following
+22:31:19,37 root INFO Inside Avoiding Walls function by using Lidar
+22:31:19,39 root INFO Detecting AR Markers which tell us to switch to line following
+22:31:19,138 root INFO Inside Avoiding Walls function by using Lidar
+22:31:19,139 root INFO Detecting AR Markers which tell us to switch to line following
+22:31:19,239 root INFO Inside Avoiding Walls function by using Lidar
+22:31:19,240 root INFO Detecting AR Markers which tell us to switch to line following
+22:31:19,343 root INFO Inside Avoiding Walls function by using Lidar
+22:31:19,344 root INFO Detecting AR Markers which tell us to switch to line following
+22:31:19,444 root INFO Inside Avoiding Walls function by using Lidar
+22:31:19,445 root INFO Detecting AR Markers which tell us to switch to line following
+22:31:19,533 root INFO Inside Avoiding Walls function by using Lidar
+22:31:19,535 root INFO Detecting AR Markers which tell us to switch to line following
+22:31:19,632 root INFO Inside Avoiding Walls function by using Lidar
+22:31:19,634 root INFO Detecting AR Markers which tell us to switch to line following
+22:31:19,733 root INFO Inside Avoiding Walls function by using Lidar
+22:31:19,735 root INFO Detecting AR Markers which tell us to switch to line following
+22:31:19,836 root INFO Inside Avoiding Walls function by using Lidar
+22:31:19,837 root INFO Detecting AR Markers which tell us to switch to line following
+22:31:19,932 root INFO Inside Avoiding Walls function by using Lidar
+22:31:19,933 root INFO Detecting AR Markers which tell us to switch to line following
+22:31:20,34 root INFO Inside Avoiding Walls function by using Lidar
+22:31:20,35 root INFO Detecting AR Markers which tell us to switch to line following
+22:31:20,167 root INFO Inside Avoiding Walls function by using Lidar
+22:31:20,169 root INFO Detecting AR Markers which tell us to switch to line following
+22:31:20,289 root INFO Inside Avoiding Walls function by using Lidar
+22:31:20,291 root INFO Detecting AR Markers which tell us to switch to line following
+22:31:20,389 root INFO Inside Avoiding Walls function by using Lidar
+22:31:20,390 root INFO Detecting AR Markers which tell us to switch to line following
+22:31:20,483 root INFO Inside Avoiding Walls function by using Lidar
+22:31:20,485 root INFO Detecting AR Markers which tell us to switch to line following
+22:31:20,585 root INFO Inside Avoiding Walls function by using Lidar
+22:31:20,586 root INFO Detecting AR Markers which tell us to switch to line following
+22:31:20,684 root INFO Inside Avoiding Walls function by using Lidar
+22:31:20,685 root INFO Detecting AR Markers which tell us to switch to line following
+22:31:20,787 root INFO Inside Avoiding Walls function by using Lidar
+22:31:20,788 root INFO Detecting AR Markers which tell us to switch to line following
+22:31:20,887 root INFO Inside Avoiding Walls function by using Lidar
+22:31:20,888 root INFO Detecting AR Markers which tell us to switch to line following
+22:31:21,24 root INFO Inside Avoiding Walls function by using Lidar
+22:31:21,26 root INFO Detecting AR Markers which tell us to switch to line following
+22:31:21,121 root INFO Inside Avoiding Walls function by using Lidar
+22:31:21,122 root INFO Detecting AR Markers which tell us to switch to line following
+22:31:21,207 root INFO Inside Avoiding Walls function by using Lidar
+22:31:21,208 root INFO Detecting AR Markers which tell us to switch to line following
+22:31:21,297 root INFO Inside Avoiding Walls function by using Lidar
+22:31:21,298 root INFO Detecting AR Markers which tell us to switch to line following
+22:31:21,395 root INFO Inside Avoiding Walls function by using Lidar
+22:31:21,396 root INFO Detecting AR Markers which tell us to switch to line following
+22:31:21,483 root INFO Inside Avoiding Walls function by using Lidar
+22:31:21,484 root INFO Detecting AR Markers which tell us to switch to line following
+22:31:21,575 root INFO Inside Avoiding Walls function by using Lidar
+22:31:21,576 root INFO Detecting AR Markers which tell us to switch to line following
+22:31:21,669 root INFO Inside Avoiding Walls function by using Lidar
+22:31:21,670 root INFO Detecting AR Markers which tell us to switch to line following
+22:31:21,766 root INFO Inside Avoiding Walls function by using Lidar
+22:31:21,767 root INFO Detecting AR Markers which tell us to switch to line following
+22:31:21,869 root INFO Inside Avoiding Walls function by using Lidar
+22:31:21,871 root INFO Detecting AR Markers which tell us to switch to line following
+22:31:21,966 root INFO Inside Avoiding Walls function by using Lidar
+22:31:21,967 root INFO Detecting AR Markers which tell us to switch to line following
+22:31:22,60 root INFO Inside Avoiding Walls function by using Lidar
+22:31:22,62 root INFO Detecting AR Markers which tell us to switch to line following
+22:31:22,155 root INFO Inside Avoiding Walls function by using Lidar
+22:31:22,156 root INFO Detecting AR Markers which tell us to switch to line following
+22:31:22,249 root INFO Inside Avoiding Walls function by using Lidar
+22:31:22,251 root INFO Detecting AR Markers which tell us to switch to line following
+22:31:22,340 root INFO Inside Avoiding Walls function by using Lidar
+22:31:22,342 root INFO Detecting AR Markers which tell us to switch to line following
+22:31:22,441 root INFO Inside Avoiding Walls function by using Lidar
+22:31:22,443 root INFO Detecting AR Markers which tell us to switch to line following
+22:31:22,532 root INFO Inside Avoiding Walls function by using Lidar
+22:31:22,534 root INFO Detecting AR Markers which tell us to switch to line following
+22:31:22,629 root INFO Inside Avoiding Walls function by using Lidar
+22:31:22,630 root INFO Detecting AR Markers which tell us to switch to line following
+22:31:22,731 root INFO Inside Avoiding Walls function by using Lidar
+22:31:22,732 root INFO Detecting AR Markers which tell us to switch to line following
+22:31:22,826 root INFO Inside Avoiding Walls function by using Lidar
+22:31:22,827 root INFO Detecting AR Markers which tell us to switch to line following
+22:31:22,921 root INFO Inside Avoiding Walls function by using Lidar
+22:31:22,922 root INFO Detecting AR Markers which tell us to switch to line following
+22:31:23,5 root INFO Inside Avoiding Walls function by using Lidar
+22:31:23,6 root INFO Detecting AR Markers which tell us to switch to line following
+22:31:23,100 root INFO Inside Avoiding Walls function by using Lidar
+22:31:23,101 root INFO Detecting AR Markers which tell us to switch to line following
+22:31:23,195 root INFO Inside Avoiding Walls function by using Lidar
+22:31:23,196 root INFO Detecting AR Markers which tell us to switch to line following
+22:31:23,282 root INFO Inside Avoiding Walls function by using Lidar
+22:31:23,283 root INFO Detecting AR Markers which tell us to switch to line following
+22:31:23,377 root INFO Inside Avoiding Walls function by using Lidar
+22:31:23,379 root INFO Detecting AR Markers which tell us to switch to line following
+22:31:23,472 root INFO Inside Avoiding Walls function by using Lidar
+22:31:23,474 root INFO Detecting AR Markers which tell us to switch to line following
+22:31:23,563 root INFO Inside Avoiding Walls function by using Lidar
+22:31:23,564 root INFO Detecting AR Markers which tell us to switch to line following
+22:31:23,663 root INFO Inside Avoiding Walls function by using Lidar
+22:31:23,665 root INFO Detecting AR Markers which tell us to switch to line following
+22:31:23,764 root INFO Inside Avoiding Walls function by using Lidar
+22:31:23,765 root INFO Detecting AR Markers which tell us to switch to line following
+22:31:23,854 root INFO Inside Avoiding Walls function by using Lidar
+22:31:23,855 root INFO Detecting AR Markers which tell us to switch to line following
+22:31:23,941 root INFO Inside Avoiding Walls function by using Lidar
+22:31:23,943 root INFO Detecting AR Markers which tell us to switch to line following
+22:31:24,41 root INFO Inside Avoiding Walls function by using Lidar
+22:31:24,42 root INFO Detecting AR Markers which tell us to switch to line following
+22:31:24,133 root INFO Inside Avoiding Walls function by using Lidar
+22:31:24,134 root INFO Detecting AR Markers which tell us to switch to line following
+22:31:24,230 root INFO Inside Avoiding Walls function by using Lidar
+22:31:24,232 root INFO Detecting AR Markers which tell us to switch to line following
+22:31:24,342 root INFO Inside Avoiding Walls function by using Lidar
+22:31:24,343 root INFO Detecting AR Markers which tell us to switch to line following
+22:31:24,443 root INFO Inside Avoiding Walls function by using Lidar
+22:31:24,444 root INFO Detecting AR Markers which tell us to switch to line following
+22:31:24,542 root INFO Inside Avoiding Walls function by using Lidar
+22:31:24,544 root INFO Detecting AR Markers which tell us to switch to line following
+22:31:24,664 root INFO Inside Avoiding Walls function by using Lidar
+22:31:24,667 root INFO Detecting AR Markers which tell us to switch to line following
+22:31:24,782 root INFO Inside Avoiding Walls function by using Lidar
+22:31:24,783 root INFO Detecting AR Markers which tell us to switch to line following
+22:31:24,869 root INFO Inside Avoiding Walls function by using Lidar
+22:31:24,870 root INFO Detecting AR Markers which tell us to switch to line following
+22:31:24,960 root INFO Inside Avoiding Walls function by using Lidar
+22:31:24,961 root INFO Detecting AR Markers which tell us to switch to line following
+22:31:25,61 root INFO Inside Avoiding Walls function by using Lidar
+22:31:25,63 root INFO Detecting AR Markers which tell us to switch to line following
+22:31:25,152 root INFO Inside Avoiding Walls function by using Lidar
+22:31:25,153 root INFO Detecting AR Markers which tell us to switch to line following
+22:31:25,253 root INFO Inside Avoiding Walls function by using Lidar
+22:31:25,254 root INFO Detecting AR Markers which tell us to switch to line following
+22:31:25,350 root INFO Inside Avoiding Walls function by using Lidar
+22:31:25,353 root INFO Detecting AR Markers which tell us to switch to line following
+22:31:25,445 root INFO Inside Avoiding Walls function by using Lidar
+22:31:25,447 root INFO Detecting AR Markers which tell us to switch to line following
+22:31:25,540 root INFO Inside Avoiding Walls function by using Lidar
+22:31:25,541 root INFO Detecting AR Markers which tell us to switch to line following
+22:31:25,628 root INFO Inside Avoiding Walls function by using Lidar
+22:31:25,629 root INFO Detecting AR Markers which tell us to switch to line following
+22:31:25,724 root INFO Inside Avoiding Walls function by using Lidar
+22:31:25,726 root INFO Detecting AR Markers which tell us to switch to line following
+22:31:25,829 root INFO Inside Avoiding Walls function by using Lidar
+22:31:25,830 root INFO Detecting AR Markers which tell us to switch to line following
+22:31:25,923 root INFO Inside Avoiding Walls function by using Lidar
+22:31:25,925 root INFO Detecting AR Markers which tell us to switch to line following
+22:31:26,25 root INFO Inside Avoiding Walls function by using Lidar
+22:31:26,27 root INFO Detecting AR Markers which tell us to switch to line following
+22:31:26,124 root INFO Inside Avoiding Walls function by using Lidar
+22:31:26,125 root INFO Detecting AR Markers which tell us to switch to line following
+22:31:26,217 root INFO Inside Avoiding Walls function by using Lidar
+22:31:26,218 root INFO Detecting AR Markers which tell us to switch to line following
+22:31:26,309 root INFO Inside Avoiding Walls function by using Lidar
+22:31:26,311 root INFO Detecting AR Markers which tell us to switch to line following
+22:31:26,402 root INFO Inside Avoiding Walls function by using Lidar
+22:31:26,403 root INFO Detecting AR Markers which tell us to switch to line following
+22:31:26,499 root INFO Inside Avoiding Walls function by using Lidar
+22:31:26,500 root INFO Detecting AR Markers which tell us to switch to line following
+22:31:26,595 root INFO Inside Avoiding Walls function by using Lidar
+22:31:26,596 root INFO Detecting AR Markers which tell us to switch to line following
+22:31:26,688 root INFO Inside Avoiding Walls function by using Lidar
+22:31:26,689 root INFO Detecting AR Markers which tell us to switch to line following
+22:31:26,783 root INFO Inside Avoiding Walls function by using Lidar
+22:31:26,784 root INFO Detecting AR Markers which tell us to switch to line following
+22:31:26,877 root INFO Inside Avoiding Walls function by using Lidar
+22:31:26,878 root INFO Detecting AR Markers which tell us to switch to line following
+22:31:26,968 root INFO Inside Avoiding Walls function by using Lidar
+22:31:26,970 root INFO Detecting AR Markers which tell us to switch to line following
+22:31:27,70 root INFO Inside Avoiding Walls function by using Lidar
+22:31:27,72 root INFO Detecting AR Markers which tell us to switch to line following
+22:31:27,171 root INFO Inside Avoiding Walls function by using Lidar
+22:31:27,172 root INFO Detecting AR Markers which tell us to switch to line following
+22:31:27,267 root INFO Inside Avoiding Walls function by using Lidar
+22:31:27,269 root INFO Detecting AR Markers which tell us to switch to line following
+22:31:27,368 root INFO Inside Avoiding Walls function by using Lidar
+22:31:27,369 root INFO Detecting AR Markers which tell us to switch to line following
+22:31:27,462 root INFO Inside Avoiding Walls function by using Lidar
+22:31:27,463 root INFO Detecting AR Markers which tell us to switch to line following
+22:31:27,557 root INFO Inside Avoiding Walls function by using Lidar
+22:31:27,558 root INFO Detecting AR Markers which tell us to switch to line following
+22:31:27,655 root INFO Inside Avoiding Walls function by using Lidar
+22:31:27,656 root INFO Detecting AR Markers which tell us to switch to line following
+22:31:27,754 root INFO Inside Avoiding Walls function by using Lidar
+22:31:27,756 root INFO Detecting AR Markers which tell us to switch to line following
+22:31:27,849 root INFO Inside Avoiding Walls function by using Lidar
+22:31:27,851 root INFO Detecting AR Markers which tell us to switch to line following
+22:31:27,943 root INFO Inside Avoiding Walls function by using Lidar
+22:31:27,944 root INFO Detecting AR Markers which tell us to switch to line following
+22:31:28,42 root INFO Inside Avoiding Walls function by using Lidar
+22:31:28,44 root INFO Detecting AR Markers which tell us to switch to line following
+22:31:28,143 root INFO Inside Avoiding Walls function by using Lidar
+22:31:28,144 root INFO Detecting AR Markers which tell us to switch to line following
+22:31:28,241 root INFO Inside Avoiding Walls function by using Lidar
+22:31:28,242 root INFO Detecting AR Markers which tell us to switch to line following
+22:31:28,341 root INFO Inside Avoiding Walls function by using Lidar
+22:31:28,342 root INFO Detecting AR Markers which tell us to switch to line following
+22:31:28,438 root INFO Inside Avoiding Walls function by using Lidar
+22:31:28,440 root INFO Detecting AR Markers which tell us to switch to line following
+22:31:28,538 root INFO Inside Avoiding Walls function by using Lidar
+22:31:28,540 root INFO Detecting AR Markers which tell us to switch to line following
+22:31:28,638 root INFO Inside Avoiding Walls function by using Lidar
+22:31:28,639 root INFO Detecting AR Markers which tell us to switch to line following
+22:31:28,736 root INFO Inside Avoiding Walls function by using Lidar
+22:31:28,737 root INFO Detecting AR Markers which tell us to switch to line following
+22:31:28,829 root INFO Inside Avoiding Walls function by using Lidar
+22:31:28,831 root INFO Detecting AR Markers which tell us to switch to line following
+22:31:28,915 root INFO Inside Avoiding Walls function by using Lidar
+22:31:28,916 root INFO Detecting AR Markers which tell us to switch to line following
+22:31:29,9 root INFO Inside Avoiding Walls function by using Lidar
+22:31:29,10 root INFO Detecting AR Markers which tell us to switch to line following
+22:31:29,103 root INFO Inside Avoiding Walls function by using Lidar
+22:31:29,105 root INFO Detecting AR Markers which tell us to switch to line following
+22:31:29,196 root INFO Inside Avoiding Walls function by using Lidar
+22:31:29,197 root INFO Detecting AR Markers which tell us to switch to line following
+22:31:29,290 root INFO Inside Avoiding Walls function by using Lidar
+22:31:29,292 root INFO Detecting AR Markers which tell us to switch to line following
+22:31:29,389 root INFO Inside Avoiding Walls function by using Lidar
+22:31:29,390 root INFO Detecting AR Markers which tell us to switch to line following
+22:31:29,487 root INFO Inside Avoiding Walls function by using Lidar
+22:31:29,488 root INFO Detecting AR Markers which tell us to switch to line following
+22:31:29,589 root INFO Inside Avoiding Walls function by using Lidar
+22:31:29,590 root INFO Detecting AR Markers which tell us to switch to line following
+22:31:29,688 root INFO Inside Avoiding Walls function by using Lidar
+22:31:29,689 root INFO Detecting AR Markers which tell us to switch to line following
+22:31:29,789 root INFO Inside Avoiding Walls function by using Lidar
+22:31:29,790 root INFO Detecting AR Markers which tell us to switch to line following
+22:31:29,892 root INFO Inside Avoiding Walls function by using Lidar
+22:31:29,894 root INFO Detecting AR Markers which tell us to switch to line following
+22:31:29,983 root INFO Inside Avoiding Walls function by using Lidar
+22:31:29,984 root INFO Detecting AR Markers which tell us to switch to line following
+22:31:30,112 root INFO Inside Avoiding Walls function by using Lidar
+22:31:30,114 root INFO Detecting AR Markers which tell us to switch to line following
+22:31:30,207 root INFO Inside Avoiding Walls function by using Lidar
+22:31:30,208 root INFO Detecting AR Markers which tell us to switch to line following
+22:31:30,308 root INFO Inside Avoiding Walls function by using Lidar
+22:31:30,309 root INFO Detecting AR Markers which tell us to switch to line following
+22:31:30,404 root INFO Inside Avoiding Walls function by using Lidar
+22:31:30,406 root INFO Detecting AR Markers which tell us to switch to line following
+22:31:30,497 root INFO Inside Avoiding Walls function by using Lidar
+22:31:30,498 root INFO Detecting AR Markers which tell us to switch to line following
+22:31:30,613 root INFO Inside Avoiding Walls function by using Lidar
+22:31:30,614 root INFO Detecting AR Markers which tell us to switch to line following
+22:31:30,709 root INFO Inside Avoiding Walls function by using Lidar
+22:31:30,710 root INFO Detecting AR Markers which tell us to switch to line following
+22:31:30,812 root INFO Inside Avoiding Walls function by using Lidar
+22:31:30,813 root INFO Detecting AR Markers which tell us to switch to line following
+22:31:30,928 root INFO Inside Avoiding Walls function by using Lidar
+22:31:30,929 root INFO Detecting AR Markers which tell us to switch to line following
+22:31:31,25 root INFO Inside Avoiding Walls function by using Lidar
+22:31:31,26 root INFO Detecting AR Markers which tell us to switch to line following
+22:31:31,122 root INFO Inside Avoiding Walls function by using Lidar
+22:31:31,123 root INFO Detecting AR Markers which tell us to switch to line following
+22:31:31,230 root INFO Inside Avoiding Walls function by using Lidar
+22:31:31,232 root INFO Detecting AR Markers which tell us to switch to line following
+22:31:31,351 root INFO Inside Avoiding Walls function by using Lidar
+22:31:31,352 root INFO Detecting AR Markers which tell us to switch to line following
+22:31:31,472 root INFO Inside Avoiding Walls function by using Lidar
+22:31:31,473 root INFO Detecting AR Markers which tell us to switch to line following
+22:31:31,568 root INFO Inside Avoiding Walls function by using Lidar
+22:31:31,568 root INFO Detecting AR Markers which tell us to switch to line following
+22:31:31,673 root INFO Inside Avoiding Walls function by using Lidar
+22:31:31,674 root INFO Detecting AR Markers which tell us to switch to line following
+22:31:31,774 root INFO Inside Avoiding Walls function by using Lidar
+22:31:31,775 root INFO Detecting AR Markers which tell us to switch to line following
+22:31:31,877 root INFO Inside Avoiding Walls function by using Lidar
+22:31:31,878 root INFO Detecting AR Markers which tell us to switch to line following
+22:31:31,974 root INFO Inside Avoiding Walls function by using Lidar
+22:31:31,975 root INFO Detecting AR Markers which tell us to switch to line following
+22:31:32,91 root INFO Inside Avoiding Walls function by using Lidar
+22:31:32,93 root INFO Detecting AR Markers which tell us to switch to line following
+22:31:32,196 root INFO Inside Avoiding Walls function by using Lidar
+22:31:32,196 root INFO Detecting AR Markers which tell us to switch to line following
+22:31:32,292 root INFO Inside Avoiding Walls function by using Lidar
+22:31:32,293 root INFO Detecting AR Markers which tell us to switch to line following
+22:31:32,395 root INFO Inside Avoiding Walls function by using Lidar
+22:31:32,396 root INFO Detecting AR Markers which tell us to switch to line following
+22:31:32,501 root INFO Inside Avoiding Walls function by using Lidar
+22:31:32,503 root INFO Detecting AR Markers which tell us to switch to line following
+22:31:32,604 root INFO Inside Avoiding Walls function by using Lidar
+22:31:32,605 root INFO Detecting AR Markers which tell us to switch to line following
+22:31:32,708 root INFO Inside Avoiding Walls function by using Lidar
+22:31:32,709 root INFO Detecting AR Markers which tell us to switch to line following
+22:31:32,810 root INFO Inside Avoiding Walls function by using Lidar
+22:31:32,811 root INFO Detecting AR Markers which tell us to switch to line following
+22:31:32,906 root INFO Inside Avoiding Walls function by using Lidar
+22:31:32,907 root INFO Detecting AR Markers which tell us to switch to line following
+22:31:33,23 root INFO Inside Avoiding Walls function by using Lidar
+22:31:33,25 root INFO Detecting AR Markers which tell us to switch to line following
+22:31:33,131 root INFO Inside Avoiding Walls function by using Lidar
+22:31:33,132 root INFO Detecting AR Markers which tell us to switch to line following
+22:31:33,273 root INFO Inside Avoiding Walls function by using Lidar
+22:31:33,275 root INFO Detecting AR Markers which tell us to switch to line following
+22:31:33,378 root INFO Inside Avoiding Walls function by using Lidar
+22:31:33,379 root INFO Detecting AR Markers which tell us to switch to line following
+22:31:33,481 root INFO Inside Avoiding Walls function by using Lidar
+22:31:33,482 root INFO Detecting AR Markers which tell us to switch to line following
+22:31:33,578 root INFO Inside Avoiding Walls function by using Lidar
+22:31:33,579 root INFO Detecting AR Markers which tell us to switch to line following
+22:31:33,689 root INFO Inside Avoiding Walls function by using Lidar
+22:31:33,690 root INFO Detecting AR Markers which tell us to switch to line following
+22:31:33,791 root INFO Inside Avoiding Walls function by using Lidar
+22:31:33,792 root INFO Detecting AR Markers which tell us to switch to line following
+22:31:33,897 root INFO Inside Avoiding Walls function by using Lidar
+22:31:33,898 root INFO Detecting AR Markers which tell us to switch to line following
+22:31:34,2 root INFO Inside Avoiding Walls function by using Lidar
+22:31:34,3 root INFO Detecting AR Markers which tell us to switch to line following
+22:31:34,100 root INFO Inside Avoiding Walls function by using Lidar
+22:31:34,101 root INFO Detecting AR Markers which tell us to switch to line following
+22:31:34,209 root INFO Inside Avoiding Walls function by using Lidar
+22:31:34,210 root INFO Detecting AR Markers which tell us to switch to line following
+22:31:34,323 root INFO Inside Avoiding Walls function by using Lidar
+22:31:34,324 root INFO Detecting AR Markers which tell us to switch to line following
+22:31:34,420 root INFO Inside Avoiding Walls function by using Lidar
+22:31:34,421 root INFO Detecting AR Markers which tell us to switch to line following
+22:31:34,522 root INFO Inside Avoiding Walls function by using Lidar
+22:31:34,523 root INFO Detecting AR Markers which tell us to switch to line following
+22:31:34,619 root INFO Inside Avoiding Walls function by using Lidar
+22:31:34,620 root INFO Detecting AR Markers which tell us to switch to line following
+22:31:34,719 root INFO Inside Avoiding Walls function by using Lidar
+22:31:34,719 root INFO Detecting AR Markers which tell us to switch to line following
+22:31:34,822 root INFO Inside Avoiding Walls function by using Lidar
+22:31:34,824 root INFO Detecting AR Markers which tell us to switch to line following
+22:31:34,950 root INFO Inside Avoiding Walls function by using Lidar
+22:31:34,951 root INFO Detecting AR Markers which tell us to switch to line following
+22:31:35,48 root INFO Inside Avoiding Walls function by using Lidar
+22:31:35,49 root INFO Detecting AR Markers which tell us to switch to line following
+22:31:35,160 root INFO Inside Avoiding Walls function by using Lidar
+22:31:35,161 root INFO Detecting AR Markers which tell us to switch to line following
+22:31:35,265 root INFO Inside Avoiding Walls function by using Lidar
+22:31:35,364 root INFO Inside Avoiding Walls function by using Lidar
+22:31:35,469 root INFO Detecting AR Marker which tell us to switch to Slalom
+22:31:35,471 root INFO Inside Slalom funciton, by using color camera for cone recognition, and depth camera for distance
+22:31:35,604 root INFO Detecting AR Marker which tell us to switch to Slalom
+22:31:35,605 root INFO Inside Slalom funciton, by using color camera for cone recognition, and depth camera for distance
+22:31:35,737 root INFO Detecting AR Marker which tell us to switch to Slalom
+22:31:35,738 root INFO Inside Slalom funciton, by using color camera for cone recognition, and depth camera for distance
+22:31:35,861 root INFO Detecting AR Marker which tell us to switch to Slalom
+22:31:35,862 root INFO Inside Slalom funciton, by using color camera for cone recognition, and depth camera for distance
+22:31:35,985 root INFO Detecting AR Marker which tell us to switch to Slalom
+22:31:35,986 root INFO Inside Slalom funciton, by using color camera for cone recognition, and depth camera for distance
+22:31:36,99 root INFO Detecting AR Marker which tell us to switch to Slalom
+22:31:36,100 root INFO Inside Slalom funciton, by using color camera for cone recognition, and depth camera for distance
+22:31:36,225 root INFO Inside Slalom funciton, by using color camera for cone recognition, and depth camera for distance
+22:31:36,354 root INFO Inside Slalom funciton, by using color camera for cone recognition, and depth camera for distance
+22:31:36,484 root INFO Inside Slalom funciton, by using color camera for cone recognition, and depth camera for distance
+22:31:36,601 root INFO Inside Slalom funciton, by using color camera for cone recognition, and depth camera for distance
+22:31:36,732 root INFO Inside Slalom funciton, by using color camera for cone recognition, and depth camera for distance
+22:31:36,858 root INFO Inside Slalom funciton, by using color camera for cone recognition, and depth camera for distance
+22:31:36,973 root INFO Inside Slalom funciton, by using color camera for cone recognition, and depth camera for distance
+22:31:37,103 root INFO Inside Slalom funciton, by using color camera for cone recognition, and depth camera for distance
+22:31:37,228 root INFO Inside Slalom funciton, by using color camera for cone recognition, and depth camera for distance
+22:31:37,350 root INFO Inside Slalom funciton, by using color camera for cone recognition, and depth camera for distance
+22:31:37,457 root INFO Inside Slalom funciton, by using color camera for cone recognition, and depth camera for distance
+22:31:37,583 root INFO Inside Slalom funciton, by using color camera for cone recognition, and depth camera for distance
+22:31:37,703 root INFO Inside Slalom funciton, by using color camera for cone recognition, and depth camera for distance
+22:31:37,830 root INFO Inside Slalom funciton, by using color camera for cone recognition, and depth camera for distance
+22:31:37,942 root INFO Inside Slalom funciton, by using color camera for cone recognition, and depth camera for distance
+22:31:38,65 root INFO Inside Slalom funciton, by using color camera for cone recognition, and depth camera for distance
+22:31:38,181 root INFO Inside Slalom funciton, by using color camera for cone recognition, and depth camera for distance
+22:31:38,310 root INFO Inside Slalom funciton, by using color camera for cone recognition, and depth camera for distance
+22:31:38,410 root INFO Inside Slalom funciton, by using color camera for cone recognition, and depth camera for distance
+22:31:38,535 root INFO Inside Slalom funciton, by using color camera for cone recognition, and depth camera for distance
+22:31:38,643 root INFO Inside Slalom funciton, by using color camera for cone recognition, and depth camera for distance
+22:31:38,769 root INFO Inside Slalom funciton, by using color camera for cone recognition, and depth camera for distance
+22:31:38,877 root INFO Inside Slalom funciton, by using color camera for cone recognition, and depth camera for distance
+22:31:38,998 root INFO Inside Slalom funciton, by using color camera for cone recognition, and depth camera for distance
+22:31:39,121 root INFO Inside Slalom funciton, by using color camera for cone recognition, and depth camera for distance
+22:31:39,234 root INFO Inside Slalom funciton, by using color camera for cone recognition, and depth camera for distance
+22:31:39,359 root INFO Inside Slalom funciton, by using color camera for cone recognition, and depth camera for distance
+22:31:39,478 root INFO Inside Slalom funciton, by using color camera for cone recognition, and depth camera for distance
+22:31:39,601 root INFO Inside Slalom funciton, by using color camera for cone recognition, and depth camera for distance
+22:31:39,727 root INFO Inside Slalom funciton, by using color camera for cone recognition, and depth camera for distance
+22:31:39,850 root INFO Inside Slalom funciton, by using color camera for cone recognition, and depth camera for distance
+22:31:39,976 root INFO Inside Slalom funciton, by using color camera for cone recognition, and depth camera for distance
+22:31:40,106 root INFO Inside Slalom funciton, by using color camera for cone recognition, and depth camera for distance
+22:31:40,223 root INFO Inside Slalom funciton, by using color camera for cone recognition, and depth camera for distance
+22:31:40,343 root INFO Inside Slalom funciton, by using color camera for cone recognition, and depth camera for distance
+22:31:40,459 root INFO Inside Slalom funciton, by using color camera for cone recognition, and depth camera for distance
+22:31:40,584 root INFO Inside Slalom funciton, by using color camera for cone recognition, and depth camera for distance
+22:31:40,700 root INFO Inside Slalom funciton, by using color camera for cone recognition, and depth camera for distance
+22:31:40,819 root INFO Inside Slalom funciton, by using color camera for cone recognition, and depth camera for distance
+22:31:40,950 root INFO Inside Slalom funciton, by using color camera for cone recognition, and depth camera for distance
+22:31:41,67 root INFO Inside Slalom funciton, by using color camera for cone recognition, and depth camera for distance
+22:31:41,189 root INFO Inside Slalom funciton, by using color camera for cone recognition, and depth camera for distance
+22:31:41,295 root INFO Inside Slalom funciton, by using color camera for cone recognition, and depth camera for distance
+22:31:41,421 root INFO Inside Slalom funciton, by using color camera for cone recognition, and depth camera for distance
+22:31:41,530 root INFO Inside Slalom funciton, by using color camera for cone recognition, and depth camera for distance
+22:31:41,664 root INFO Inside Slalom funciton, by using color camera for cone recognition, and depth camera for distance
+22:31:41,775 root INFO Inside Slalom funciton, by using color camera for cone recognition, and depth camera for distance
+22:31:41,903 root INFO Inside Slalom funciton, by using color camera for cone recognition, and depth camera for distance
+22:31:42,26 root INFO Inside Slalom funciton, by using color camera for cone recognition, and depth camera for distance
+22:31:42,148 root INFO Inside Slalom funciton, by using color camera for cone recognition, and depth camera for distance
+22:31:42,265 root INFO Inside Slalom funciton, by using color camera for cone recognition, and depth camera for distance
+22:31:42,390 root INFO Inside Slalom funciton, by using color camera for cone recognition, and depth camera for distance
+22:31:42,515 root INFO Inside Slalom funciton, by using color camera for cone recognition, and depth camera for distance
+22:31:42,639 root INFO Inside Slalom funciton, by using color camera for cone recognition, and depth camera for distance
+22:31:42,760 root INFO Inside Slalom funciton, by using color camera for cone recognition, and depth camera for distance
+22:31:42,878 root INFO Inside Slalom funciton, by using color camera for cone recognition, and depth camera for distance
+22:31:42,999 root INFO Inside Slalom funciton, by using color camera for cone recognition, and depth camera for distance
+22:31:43,115 root INFO Inside Slalom funciton, by using color camera for cone recognition, and depth camera for distance
+22:31:43,224 root INFO Inside Slalom funciton, by using color camera for cone recognition, and depth camera for distance
+22:31:43,351 root INFO Inside Slalom funciton, by using color camera for cone recognition, and depth camera for distance
+22:31:43,463 root INFO Inside Slalom funciton, by using color camera for cone recognition, and depth camera for distance
+22:31:43,580 root INFO Inside Slalom funciton, by using color camera for cone recognition, and depth camera for distance
+22:31:43,697 root INFO Inside Slalom funciton, by using color camera for cone recognition, and depth camera for distance
+22:31:43,805 root INFO Inside Slalom funciton, by using color camera for cone recognition, and depth camera for distance
+22:31:43,916 root INFO Inside Slalom funciton, by using color camera for cone recognition, and depth camera for distance
+22:31:44,36 root INFO Inside Slalom funciton, by using color camera for cone recognition, and depth camera for distance
+22:31:44,146 root INFO Inside Slalom funciton, by using color camera for cone recognition, and depth camera for distance
+22:31:44,265 root INFO Inside Slalom funciton, by using color camera for cone recognition, and depth camera for distance
+22:31:44,375 root INFO Inside Slalom funciton, by using color camera for cone recognition, and depth camera for distance
+22:31:44,486 root INFO Inside Slalom funciton, by using color camera for cone recognition, and depth camera for distance
+22:31:44,600 root INFO Inside Slalom funciton, by using color camera for cone recognition, and depth camera for distance
+22:31:44,734 root INFO Inside Slalom funciton, by using color camera for cone recognition, and depth camera for distance
+22:31:44,848 root INFO Inside Slalom funciton, by using color camera for cone recognition, and depth camera for distance
+22:31:44,965 root INFO Inside Slalom funciton, by using color camera for cone recognition, and depth camera for distance
+22:31:45,74 root INFO Inside Slalom funciton, by using color camera for cone recognition, and depth camera for distance
+22:31:45,189 root INFO Inside Slalom funciton, by using color camera for cone recognition, and depth camera for distance
+22:31:45,312 root INFO Inside Slalom funciton, by using color camera for cone recognition, and depth camera for distance
+22:31:45,427 root INFO Inside Slalom funciton, by using color camera for cone recognition, and depth camera for distance
+22:31:45,549 root INFO Inside Slalom funciton, by using color camera for cone recognition, and depth camera for distance
+22:31:45,676 root INFO Inside Slalom funciton, by using color camera for cone recognition, and depth camera for distance
+22:31:45,788 root INFO Inside Slalom funciton, by using color camera for cone recognition, and depth camera for distance
+22:31:45,905 root INFO Inside Slalom funciton, by using color camera for cone recognition, and depth camera for distance
+22:31:46,32 root INFO Inside Slalom funciton, by using color camera for cone recognition, and depth camera for distance
+22:31:46,151 root INFO Inside Slalom funciton, by using color camera for cone recognition, and depth camera for distance
+22:31:46,273 root INFO Inside Slalom funciton, by using color camera for cone recognition, and depth camera for distance
+22:31:46,395 root INFO Inside Slalom funciton, by using color camera for cone recognition, and depth camera for distance
+22:31:46,521 root INFO Inside Slalom funciton, by using color camera for cone recognition, and depth camera for distance
+22:31:46,647 root INFO Inside Slalom funciton, by using color camera for cone recognition, and depth camera for distance
+22:31:46,768 root INFO Inside Slalom funciton, by using color camera for cone recognition, and depth camera for distance
+22:31:46,889 root INFO Inside Slalom funciton, by using color camera for cone recognition, and depth camera for distance
+22:31:47,6 root INFO Inside Slalom funciton, by using color camera for cone recognition, and depth camera for distance
+22:31:47,143 root INFO Inside Slalom funciton, by using color camera for cone recognition, and depth camera for distance
+22:31:47,263 root INFO Inside Slalom funciton, by using color camera for cone recognition, and depth camera for distance
+22:31:47,394 root INFO Inside Slalom funciton, by using color camera for cone recognition, and depth camera for distance
+22:31:47,513 root INFO Inside Slalom funciton, by using color camera for cone recognition, and depth camera for distance
+22:31:47,634 root INFO Inside Slalom funciton, by using color camera for cone recognition, and depth camera for distance
+22:31:47,748 root INFO Inside Slalom funciton, by using color camera for cone recognition, and depth camera for distance
+22:31:47,870 root INFO Inside Slalom funciton, by using color camera for cone recognition, and depth camera for distance
+22:31:47,996 root INFO Inside Slalom funciton, by using color camera for cone recognition, and depth camera for distance
+22:31:48,126 root INFO Inside Slalom funciton, by using color camera for cone recognition, and depth camera for distance
+22:31:48,247 root INFO Inside Slalom funciton, by using color camera for cone recognition, and depth camera for distance
+22:31:48,376 root INFO Inside Slalom funciton, by using color camera for cone recognition, and depth camera for distance
+22:31:48,489 root INFO Inside Slalom funciton, by using color camera for cone recognition, and depth camera for distance
+22:31:48,610 root INFO Inside Slalom funciton, by using color camera for cone recognition, and depth camera for distance
+22:31:48,724 root INFO Inside Slalom funciton, by using color camera for cone recognition, and depth camera for distance
+22:31:48,837 root INFO Inside Slalom funciton, by using color camera for cone recognition, and depth camera for distance
+22:31:48,973 root INFO Inside Slalom funciton, by using color camera for cone recognition, and depth camera for distance
+22:31:49,96 root INFO Inside Slalom funciton, by using color camera for cone recognition, and depth camera for distance
+22:31:49,215 root INFO Inside Slalom funciton, by using color camera for cone recognition, and depth camera for distance
+22:31:49,329 root INFO Inside Slalom funciton, by using color camera for cone recognition, and depth camera for distance
+22:31:49,440 root INFO Inside Slalom funciton, by using color camera for cone recognition, and depth camera for distance
+22:31:49,557 root INFO Inside Slalom funciton, by using color camera for cone recognition, and depth camera for distance
+22:31:49,663 root INFO Inside Slalom funciton, by using color camera for cone recognition, and depth camera for distance
+22:31:49,780 root INFO Inside Slalom funciton, by using color camera for cone recognition, and depth camera for distance
+22:31:49,886 root INFO Inside Slalom funciton, by using color camera for cone recognition, and depth camera for distance
+22:31:49,999 root INFO Inside Slalom funciton, by using color camera for cone recognition, and depth camera for distance
+22:31:50,117 root INFO Inside Slalom funciton, by using color camera for cone recognition, and depth camera for distance
+22:31:50,237 root INFO Inside Slalom funciton, by using color camera for cone recognition, and depth camera for distance
+22:31:50,350 root INFO Inside Slalom funciton, by using color camera for cone recognition, and depth camera for distance
+22:31:50,475 root INFO Inside Slalom funciton, by using color camera for cone recognition, and depth camera for distance
+22:31:50,590 root INFO Inside Slalom funciton, by using color camera for cone recognition, and depth camera for distance
+22:31:50,705 root INFO Inside Slalom funciton, by using color camera for cone recognition, and depth camera for distance
+22:31:50,837 root INFO Inside Slalom funciton, by using color camera for cone recognition, and depth camera for distance
+22:31:50,956 root INFO Inside Slalom funciton, by using color camera for cone recognition, and depth camera for distance
+22:31:51,72 root INFO Inside Slalom funciton, by using color camera for cone recognition, and depth camera for distance
+22:31:51,194 root INFO Inside Slalom funciton, by using color camera for cone recognition, and depth camera for distance
+22:31:51,322 root INFO Inside Slalom funciton, by using color camera for cone recognition, and depth camera for distance
+22:31:51,440 root INFO Inside Slalom funciton, by using color camera for cone recognition, and depth camera for distance
+22:31:51,551 root INFO Inside Slalom funciton, by using color camera for cone recognition, and depth camera for distance
+22:31:51,675 root INFO Inside Slalom funciton, by using color camera for cone recognition, and depth camera for distance
+22:31:51,806 root INFO Inside Slalom funciton, by using color camera for cone recognition, and depth camera for distance
+22:31:51,928 root INFO Inside Slalom funciton, by using color camera for cone recognition, and depth camera for distance
+22:31:52,45 root INFO Inside Slalom funciton, by using color camera for cone recognition, and depth camera for distance
+22:31:52,176 root INFO Inside Slalom funciton, by using color camera for cone recognition, and depth camera for distance
+22:31:52,300 root INFO Inside Slalom funciton, by using color camera for cone recognition, and depth camera for distance
+22:31:52,421 root INFO Inside Slalom funciton, by using color camera for cone recognition, and depth camera for distance
+22:31:52,539 root INFO Inside Slalom funciton, by using color camera for cone recognition, and depth camera for distance
+22:31:52,661 root INFO Inside Slalom funciton, by using color camera for cone recognition, and depth camera for distance
+22:31:52,776 root INFO Inside Slalom funciton, by using color camera for cone recognition, and depth camera for distance
+22:31:52,900 root INFO Inside Slalom funciton, by using color camera for cone recognition, and depth camera for distance
+22:31:53,19 root INFO Inside Slalom funciton, by using color camera for cone recognition, and depth camera for distance
+22:31:53,127 root INFO Inside Slalom funciton, by using color camera for cone recognition, and depth camera for distance
+22:31:53,249 root INFO Inside Slalom funciton, by using color camera for cone recognition, and depth camera for distance
+22:31:53,362 root INFO Inside Slalom funciton, by using color camera for cone recognition, and depth camera for distance
+22:31:53,494 root INFO Inside Slalom funciton, by using color camera for cone recognition, and depth camera for distance
+22:31:53,617 root INFO Inside Slalom funciton, by using color camera for cone recognition, and depth camera for distance
+22:31:53,748 root INFO Inside Slalom funciton, by using color camera for cone recognition, and depth camera for distance
+22:31:53,863 root INFO Inside Slalom funciton, by using color camera for cone recognition, and depth camera for distance
+22:31:53,985 root INFO Inside Slalom funciton, by using color camera for cone recognition, and depth camera for distance
+22:31:54,100 root INFO Inside Slalom funciton, by using color camera for cone recognition, and depth camera for distance
+22:31:54,227 root INFO Inside Slalom funciton, by using color camera for cone recognition, and depth camera for distance
+22:31:54,352 root INFO Inside Slalom funciton, by using color camera for cone recognition, and depth camera for distance
+22:31:54,467 root INFO Inside Slalom funciton, by using color camera for cone recognition, and depth camera for distance
+22:31:54,594 root INFO Inside Slalom funciton, by using color camera for cone recognition, and depth camera for distance
+22:31:54,708 root INFO Inside Slalom funciton, by using color camera for cone recognition, and depth camera for distance
+22:31:54,836 root INFO Inside Slalom funciton, by using color camera for cone recognition, and depth camera for distance
+22:31:54,948 root INFO Inside Slalom funciton, by using color camera for cone recognition, and depth camera for distance
+22:31:55,61 root INFO Inside Slalom funciton, by using color camera for cone recognition, and depth camera for distance
+22:31:55,189 root INFO Inside Slalom funciton, by using color camera for cone recognition, and depth camera for distance
+22:31:55,320 root INFO Inside Slalom funciton, by using color camera for cone recognition, and depth camera for distance
+22:31:55,439 root INFO Inside Slalom funciton, by using color camera for cone recognition, and depth camera for distance
+22:31:55,555 root INFO Inside Slalom funciton, by using color camera for cone recognition, and depth camera for distance
+22:31:55,674 root INFO Inside Slalom funciton, by using color camera for cone recognition, and depth camera for distance
+22:31:55,785 root INFO Inside Slalom funciton, by using color camera for cone recognition, and depth camera for distance
+22:31:55,901 root INFO Inside Slalom funciton, by using color camera for cone recognition, and depth camera for distance
+22:31:56,15 root INFO Inside Slalom funciton, by using color camera for cone recognition, and depth camera for distance
+22:31:56,139 root INFO Inside Slalom funciton, by using color camera for cone recognition, and depth camera for distance
+22:31:56,254 root INFO Inside Slalom funciton, by using color camera for cone recognition, and depth camera for distance
+22:31:56,364 root INFO Inside Slalom funciton, by using color camera for cone recognition, and depth camera for distance
+22:31:56,490 root INFO Inside Slalom funciton, by using color camera for cone recognition, and depth camera for distance
+22:31:56,602 root INFO Inside Slalom funciton, by using color camera for cone recognition, and depth camera for distance
+22:31:56,720 root INFO Inside Slalom funciton, by using color camera for cone recognition, and depth camera for distance
+22:31:56,834 root INFO Inside Slalom funciton, by using color camera for cone recognition, and depth camera for distance
+22:31:56,952 root INFO Inside Slalom funciton, by using color camera for cone recognition, and depth camera for distance
+22:31:57,65 root INFO Inside Slalom funciton, by using color camera for cone recognition, and depth camera for distance
+22:31:57,177 root INFO Inside Slalom funciton, by using color camera for cone recognition, and depth camera for distance
+22:31:57,297 root INFO Inside Slalom funciton, by using color camera for cone recognition, and depth camera for distance
+22:31:57,420 root INFO Inside Slalom funciton, by using color camera for cone recognition, and depth camera for distance
+22:31:57,540 root INFO Inside Slalom funciton, by using color camera for cone recognition, and depth camera for distance
+22:31:57,675 root INFO Inside Slalom funciton, by using color camera for cone recognition, and depth camera for distance
+22:31:57,795 root INFO Inside Slalom funciton, by using color camera for cone recognition, and depth camera for distance
+22:31:57,923 root INFO Inside Slalom funciton, by using color camera for cone recognition, and depth camera for distance
+22:31:58,48 root INFO Inside Slalom funciton, by using color camera for cone recognition, and depth camera for distance
+22:31:58,167 root INFO Inside Slalom funciton, by using color camera for cone recognition, and depth camera for distance
+22:31:58,303 root INFO Inside Slalom funciton, by using color camera for cone recognition, and depth camera for distance
+22:31:58,423 root INFO Inside Slalom funciton, by using color camera for cone recognition, and depth camera for distance
+22:31:58,544 root INFO Inside Slalom funciton, by using color camera for cone recognition, and depth camera for distance
+22:31:58,660 root INFO Inside Slalom funciton, by using color camera for cone recognition, and depth camera for distance
+22:31:58,780 root INFO Inside Slalom funciton, by using color camera for cone recognition, and depth camera for distance
+22:31:58,909 root INFO Inside Slalom funciton, by using color camera for cone recognition, and depth camera for distance
+22:31:59,25 root INFO Inside Slalom funciton, by using color camera for cone recognition, and depth camera for distance
+22:31:59,145 root INFO Inside Slalom funciton, by using color camera for cone recognition, and depth camera for distance
+22:31:59,269 root INFO Inside Slalom funciton, by using color camera for cone recognition, and depth camera for distance
+22:31:59,384 root INFO Inside Slalom funciton, by using color camera for cone recognition, and depth camera for distance
+22:31:59,487 root INFO Inside Slalom funciton, by using color camera for cone recognition, and depth camera for distance
+22:31:59,609 root INFO Inside Slalom funciton, by using color camera for cone recognition, and depth camera for distance
+22:31:59,726 root INFO Inside Slalom funciton, by using color camera for cone recognition, and depth camera for distance
+22:31:59,847 root INFO Inside Slalom funciton, by using color camera for cone recognition, and depth camera for distance
+22:31:59,962 root INFO Inside Slalom funciton, by using color camera for cone recognition, and depth camera for distance
+22:32:00,83 root INFO Inside Slalom funciton, by using color camera for cone recognition, and depth camera for distance
+22:32:00,194 root INFO Inside Slalom funciton, by using color camera for cone recognition, and depth camera for distance
+22:32:00,332 root INFO Inside Slalom funciton, by using color camera for cone recognition, and depth camera for distance
+22:32:00,437 root INFO Inside Slalom funciton, by using color camera for cone recognition, and depth camera for distance
+22:32:00,550 root INFO Inside Slalom funciton, by using color camera for cone recognition, and depth camera for distance
+22:32:00,677 root INFO Inside Slalom funciton, by using color camera for cone recognition, and depth camera for distance
+22:32:00,790 root INFO Inside Slalom funciton, by using color camera for cone recognition, and depth camera for distance
+22:32:00,910 root INFO Inside Slalom funciton, by using color camera for cone recognition, and depth camera for distance
+22:32:01,39 root INFO Inside Slalom funciton, by using color camera for cone recognition, and depth camera for distance
+22:32:01,153 root INFO Inside Slalom funciton, by using color camera for cone recognition, and depth camera for distance
+22:32:01,279 root INFO Inside Slalom funciton, by using color camera for cone recognition, and depth camera for distance
+22:32:01,411 root INFO Inside Slalom funciton, by using color camera for cone recognition, and depth camera for distance
+22:32:01,534 root INFO Inside Slalom funciton, by using color camera for cone recognition, and depth camera for distance
+22:32:01,662 root INFO Inside Slalom funciton, by using color camera for cone recognition, and depth camera for distance
+22:32:01,783 root INFO Inside Slalom funciton, by using color camera for cone recognition, and depth camera for distance
+22:32:01,903 root INFO Inside Slalom funciton, by using color camera for cone recognition, and depth camera for distance
+22:32:02,35 root INFO Inside Slalom funciton, by using color camera for cone recognition, and depth camera for distance
+22:32:02,162 root INFO Inside Slalom funciton, by using color camera for cone recognition, and depth camera for distance
+22:32:02,277 root INFO Inside Slalom funciton, by using color camera for cone recognition, and depth camera for distance
+22:32:02,401 root INFO Inside Slalom funciton, by using color camera for cone recognition, and depth camera for distance
+22:32:02,521 root INFO Inside Slalom funciton, by using color camera for cone recognition, and depth camera for distance
+22:32:02,634 root INFO Inside Slalom funciton, by using color camera for cone recognition, and depth camera for distance
+22:32:02,755 root INFO Inside Slalom funciton, by using color camera for cone recognition, and depth camera for distance
+22:32:02,866 root INFO Inside Slalom funciton, by using color camera for cone recognition, and depth camera for distance
+22:32:02,987 root INFO Inside Slalom funciton, by using color camera for cone recognition, and depth camera for distance
+22:32:03,101 root INFO Inside Slalom funciton, by using color camera for cone recognition, and depth camera for distance
+22:32:03,216 root INFO Inside Slalom funciton, by using color camera for cone recognition, and depth camera for distance
+22:32:03,328 root INFO Inside Slalom funciton, by using color camera for cone recognition, and depth camera for distance
+22:32:03,441 root INFO Inside Slalom funciton, by using color camera for cone recognition, and depth camera for distance
+22:32:03,568 root INFO Inside Slalom funciton, by using color camera for cone recognition, and depth camera for distance
+22:32:03,704 root INFO Inside Slalom funciton, by using color camera for cone recognition, and depth camera for distance
+22:32:03,825 root INFO Inside Slalom funciton, by using color camera for cone recognition, and depth camera for distance
+22:32:03,938 root INFO Inside Slalom funciton, by using color camera for cone recognition, and depth camera for distance
+22:32:04,56 root INFO Inside Slalom funciton, by using color camera for cone recognition, and depth camera for distance
+22:32:04,170 root INFO Inside Slalom funciton, by using color camera for cone recognition, and depth camera for distance
+22:32:04,288 root INFO Inside Slalom funciton, by using color camera for cone recognition, and depth camera for distance
+22:32:04,421 root INFO Inside Slalom funciton, by using color camera for cone recognition, and depth camera for distance
+22:32:04,552 root INFO Inside Slalom funciton, by using color camera for cone recognition, and depth camera for distance
+22:32:04,687 root INFO Inside Slalom funciton, by using color camera for cone recognition, and depth camera for distance
+22:32:04,822 root INFO Inside Slalom funciton, by using color camera for cone recognition, and depth camera for distance
+22:32:04,970 root INFO Inside Slalom funciton, by using color camera for cone recognition, and depth camera for distance
+22:32:05,95 root INFO Inside Slalom funciton, by using color camera for cone recognition, and depth camera for distance
+22:32:05,216 root INFO Inside Slalom funciton, by using color camera for cone recognition, and depth camera for distance
+22:32:05,363 root INFO Inside Slalom funciton, by using color camera for cone recognition, and depth camera for distance
+22:32:05,482 root INFO Inside Slalom funciton, by using color camera for cone recognition, and depth camera for distance
+22:32:05,587 root INFO Inside Slalom funciton, by using color camera for cone recognition, and depth camera for distance
+22:32:05,710 root INFO Inside Slalom funciton, by using color camera for cone recognition, and depth camera for distance
+22:32:05,823 root INFO Inside Slalom funciton, by using color camera for cone recognition, and depth camera for distance
+22:32:05,943 root INFO Inside Slalom funciton, by using color camera for cone recognition, and depth camera for distance
+22:32:06,57 root INFO Inside Slalom funciton, by using color camera for cone recognition, and depth camera for distance
+22:32:06,174 root INFO Inside Slalom funciton, by using color camera for cone recognition, and depth camera for distance
+22:32:06,292 root INFO Inside Slalom funciton, by using color camera for cone recognition, and depth camera for distance
+22:32:06,405 root INFO Inside Slalom funciton, by using color camera for cone recognition, and depth camera for distance
+22:32:06,535 root INFO Inside Slalom funciton, by using color camera for cone recognition, and depth camera for distance
+22:32:06,647 root INFO Inside Slalom funciton, by using color camera for cone recognition, and depth camera for distance
+22:32:06,761 root INFO Inside Slalom funciton, by using color camera for cone recognition, and depth camera for distance
+22:32:06,880 root INFO Inside Slalom funciton, by using color camera for cone recognition, and depth camera for distance
+22:32:06,990 root INFO Inside Slalom funciton, by using color camera for cone recognition, and depth camera for distance
+22:32:07,112 root INFO Inside Slalom funciton, by using color camera for cone recognition, and depth camera for distance
+22:32:07,231 root INFO Inside Slalom funciton, by using color camera for cone recognition, and depth camera for distance
+22:32:07,360 root INFO Inside Slalom funciton, by using color camera for cone recognition, and depth camera for distance
+22:32:07,479 root INFO Detecting AR Marker which tell us to switch to line following
+22:32:07,479 root INFO Color on Perimeter of AR Marker tells us the priority of the Lines(Green Now)
+22:32:07,480 root INFO Inside line_follower function using the color camera for color detection and following color priority
+22:32:07,590 root INFO Detecting AR Marker which tell us to switch to line following
+22:32:07,591 root INFO Color on Perimeter of AR Marker tells us the priority of the Lines(Green Now)
+22:32:07,591 root INFO Inside line_follower function using the color camera for color detection and following color priority
+22:32:07,690 root INFO Detecting AR Marker which tell us to switch to line following
+22:32:07,691 root INFO Color on Perimeter of AR Marker tells us the priority of the Lines(Green Now)
+22:32:07,691 root INFO Inside line_follower function using the color camera for color detection and following color priority
+22:32:07,795 root INFO Detecting AR Marker which tell us to switch to line following
+22:32:07,795 root INFO Color on Perimeter of AR Marker tells us the priority of the Lines(Green Now)
+22:32:07,796 root INFO Inside line_follower function using the color camera for color detection and following color priority
+22:32:07,896 root INFO Detecting AR Marker which tell us to switch to line following
+22:32:07,897 root INFO Color on Perimeter of AR Marker tells us the priority of the Lines(Green Now)
+22:32:07,897 root INFO Inside line_follower function using the color camera for color detection and following color priority
+22:32:08,2 root INFO Inside line_follower function using the color camera for color detection and following color priority
+22:32:08,120 root INFO Inside line_follower function using the color camera for color detection and following color priority
+22:32:08,219 root INFO Inside line_follower function using the color camera for color detection and following color priority
+22:32:08,320 root INFO Inside line_follower function using the color camera for color detection and following color priority
+22:32:08,414 root INFO Inside line_follower function using the color camera for color detection and following color priority
+22:32:08,519 root INFO Inside line_follower function using the color camera for color detection and following color priority
+22:32:08,615 root INFO Inside line_follower function using the color camera for color detection and following color priority
+22:32:08,709 root INFO Inside line_follower function using the color camera for color detection and following color priority
+22:32:08,810 root INFO Inside line_follower function using the color camera for color detection and following color priority
+22:32:08,919 root INFO Inside line_follower function using the color camera for color detection and following color priority
+22:32:09,28 root INFO Inside line_follower function using the color camera for color detection and following color priority
+22:32:09,132 root INFO Inside line_follower function using the color camera for color detection and following color priority
+22:32:09,228 root INFO Inside line_follower function using the color camera for color detection and following color priority
+22:32:09,327 root INFO Inside line_follower function using the color camera for color detection and following color priority
+22:32:09,424 root INFO Inside line_follower function using the color camera for color detection and following color priority
+22:32:09,526 root INFO Inside line_follower function using the color camera for color detection and following color priority
+22:32:09,628 root INFO Inside line_follower function using the color camera for color detection and following color priority
+22:32:09,749 root INFO Inside line_follower function using the color camera for color detection and following color priority
+22:32:09,845 root INFO Inside line_follower function using the color camera for color detection and following color priority
+22:32:09,959 root INFO Inside line_follower function using the color camera for color detection and following color priority
+22:32:10,76 root INFO Inside line_follower function using the color camera for color detection and following color priority
+22:32:10,183 root INFO Inside line_follower function using the color camera for color detection and following color priority
+22:32:10,287 root INFO Inside line_follower function using the color camera for color detection and following color priority
+22:32:10,385 root INFO Inside line_follower function using the color camera for color detection and following color priority
+22:32:10,486 root INFO Inside line_follower function using the color camera for color detection and following color priority
+22:32:10,597 root INFO Inside line_follower function using the color camera for color detection and following color priority
+22:32:10,716 root INFO Inside line_follower function using the color camera for color detection and following color priority
+22:32:10,847 root INFO Inside line_follower function using the color camera for color detection and following color priority
+22:32:10,943 root INFO Inside line_follower function using the color camera for color detection and following color priority
+22:32:11,64 root INFO Inside line_follower function using the color camera for color detection and following color priority
+22:32:11,161 root INFO Inside line_follower function using the color camera for color detection and following color priority
+22:32:11,268 root INFO Inside line_follower function using the color camera for color detection and following color priority
+22:32:11,361 root INFO Inside line_follower function using the color camera for color detection and following color priority
+22:32:11,467 root INFO Inside line_follower function using the color camera for color detection and following color priority
+22:32:11,568 root INFO Inside line_follower function using the color camera for color detection and following color priority
+22:32:11,666 root INFO Inside line_follower function using the color camera for color detection and following color priority
+22:32:11,774 root INFO Inside line_follower function using the color camera for color detection and following color priority
+22:32:11,867 root INFO Inside line_follower function using the color camera for color detection and following color priority
+22:32:11,965 root INFO Inside line_follower function using the color camera for color detection and following color priority
+22:32:12,64 root INFO Inside line_follower function using the color camera for color detection and following color priority
+22:32:12,167 root INFO Inside line_follower function using the color camera for color detection and following color priority
+22:32:12,276 root INFO Inside line_follower function using the color camera for color detection and following color priority
+22:32:12,378 root INFO Inside line_follower function using the color camera for color detection and following color priority
+22:32:12,482 root INFO Inside line_follower function using the color camera for color detection and following color priority
+22:32:12,579 root INFO Inside line_follower function using the color camera for color detection and following color priority
+22:32:12,683 root INFO Inside line_follower function using the color camera for color detection and following color priority
+22:32:12,782 root INFO Inside line_follower function using the color camera for color detection and following color priority
+22:32:12,885 root INFO Inside line_follower function using the color camera for color detection and following color priority
+22:32:12,983 root INFO Inside line_follower function using the color camera for color detection and following color priority
+22:32:13,83 root INFO Inside line_follower function using the color camera for color detection and following color priority
+22:32:13,192 root INFO Inside line_follower function using the color camera for color detection and following color priority
+22:32:13,298 root INFO Inside line_follower function using the color camera for color detection and following color priority
+22:32:13,400 root INFO Inside line_follower function using the color camera for color detection and following color priority
+22:32:13,499 root INFO Inside line_follower function using the color camera for color detection and following color priority
+22:32:13,592 root INFO Inside line_follower function using the color camera for color detection and following color priority
+22:32:13,691 root INFO Inside line_follower function using the color camera for color detection and following color priority
+22:32:13,788 root INFO Inside line_follower function using the color camera for color detection and following color priority
+22:32:13,888 root INFO Inside line_follower function using the color camera for color detection and following color priority
+22:32:13,984 root INFO Inside line_follower function using the color camera for color detection and following color priority
+22:32:14,80 root INFO Inside line_follower function using the color camera for color detection and following color priority
+22:32:14,181 root INFO Inside line_follower function using the color camera for color detection and following color priority
+22:32:14,283 root INFO Inside line_follower function using the color camera for color detection and following color priority
+22:32:14,384 root INFO Inside line_follower function using the color camera for color detection and following color priority
+22:32:14,485 root INFO Inside line_follower function using the color camera for color detection and following color priority
+22:32:14,582 root INFO Inside line_follower function using the color camera for color detection and following color priority
+22:32:14,712 root INFO Inside line_follower function using the color camera for color detection and following color priority
+22:32:14,826 root INFO Inside line_follower function using the color camera for color detection and following color priority
+22:32:14,922 root INFO Inside line_follower function using the color camera for color detection and following color priority
+22:32:15,23 root INFO Inside line_follower function using the color camera for color detection and following color priority
+22:32:15,136 root INFO Inside line_follower function using the color camera for color detection and following color priority
+22:32:15,261 root INFO Inside line_follower function using the color camera for color detection and following color priority
+22:32:15,385 root INFO Inside line_follower function using the color camera for color detection and following color priority
+22:32:15,480 root INFO Inside line_follower function using the color camera for color detection and following color priority
+22:32:15,576 root INFO Inside line_follower function using the color camera for color detection and following color priority
+22:32:15,687 root INFO Inside line_follower function using the color camera for color detection and following color priority
+22:32:15,792 root INFO Inside line_follower function using the color camera for color detection and following color priority
+22:32:15,899 root INFO Inside line_follower function using the color camera for color detection and following color priority
+22:32:15,993 root INFO Inside line_follower function using the color camera for color detection and following color priority
+22:32:16,95 root INFO Inside line_follower function using the color camera for color detection and following color priority
+22:32:16,193 root INFO Inside line_follower function using the color camera for color detection and following color priority
+22:32:16,294 root INFO Inside line_follower function using the color camera for color detection and following color priority
+22:32:16,393 root INFO Inside line_follower function using the color camera for color detection and following color priority
+22:32:16,490 root INFO Inside line_follower function using the color camera for color detection and following color priority
+22:32:16,591 root INFO Inside line_follower function using the color camera for color detection and following color priority
+22:32:16,690 root INFO Inside line_follower function using the color camera for color detection and following color priority
+22:32:16,807 root INFO Inside line_follower function using the color camera for color detection and following color priority
+22:32:16,917 root INFO Inside line_follower function using the color camera for color detection and following color priority
+22:32:17,7 root INFO Inside line_follower function using the color camera for color detection and following color priority
+22:32:17,111 root INFO Inside line_follower function using the color camera for color detection and following color priority
+22:32:17,242 root INFO Inside line_follower function using the color camera for color detection and following color priority
+22:32:17,351 root INFO Inside line_follower function using the color camera for color detection and following color priority
+22:32:17,457 root INFO Inside line_follower function using the color camera for color detection and following color priority
+22:32:17,553 root INFO Inside line_follower function using the color camera for color detection and following color priority
+22:32:17,643 root INFO Inside line_follower function using the color camera for color detection and following color priority
+22:32:17,748 root INFO Inside line_follower function using the color camera for color detection and following color priority
+22:32:17,839 root INFO Inside line_follower function using the color camera for color detection and following color priority
+22:32:17,935 root INFO Inside line_follower function using the color camera for color detection and following color priority
+22:32:18,37 root INFO Inside line_follower function using the color camera for color detection and following color priority
+22:32:18,148 root INFO Inside line_follower function using the color camera for color detection and following color priority
+22:32:18,255 root INFO Inside line_follower function using the color camera for color detection and following color priority
+22:32:18,378 root INFO Inside line_follower function using the color camera for color detection and following color priority
+22:32:18,477 root INFO Inside line_follower function using the color camera for color detection and following color priority
+22:32:18,580 root INFO Inside line_follower function using the color camera for color detection and following color priority
+22:32:18,676 root INFO Inside line_follower function using the color camera for color detection and following color priority
+22:32:18,788 root INFO Inside line_follower function using the color camera for color detection and following color priority
+22:32:18,888 root INFO Inside line_follower function using the color camera for color detection and following color priority
+22:32:18,998 root INFO Inside line_follower function using the color camera for color detection and following color priority
+22:32:19,103 root INFO Inside line_follower function using the color camera for color detection and following color priority
+22:32:19,237 root INFO Inside line_follower function using the color camera for color detection and following color priority
+22:32:19,355 root INFO Inside line_follower function using the color camera for color detection and following color priority
+22:32:19,468 root INFO Inside line_follower function using the color camera for color detection and following color priority
+22:32:19,567 root INFO Inside line_follower function using the color camera for color detection and following color priority
+22:32:19,675 root INFO Inside line_follower function using the color camera for color detection and following color priority
+22:32:19,796 root INFO Inside line_follower function using the color camera for color detection and following color priority
+22:32:19,919 root INFO Inside line_follower function using the color camera for color detection and following color priority
+22:32:20,8 root INFO Inside line_follower function using the color camera for color detection and following color priority
+22:32:20,115 root INFO Inside line_follower function using the color camera for color detection and following color priority
+22:32:20,205 root INFO Inside line_follower function using the color camera for color detection and following color priority
+22:32:20,310 root INFO Inside line_follower function using the color camera for color detection and following color priority
+22:32:20,407 root INFO Inside line_follower function using the color camera for color detection and following color priority
+22:32:20,509 root INFO Inside line_follower function using the color camera for color detection and following color priority
+22:32:20,609 root INFO Inside line_follower function using the color camera for color detection and following color priority
+22:32:20,703 root INFO Inside line_follower function using the color camera for color detection and following color priority
+22:32:20,812 root INFO Inside line_follower function using the color camera for color detection and following color priority
+22:32:20,917 root INFO Inside line_follower function using the color camera for color detection and following color priority
+22:32:21,9 root INFO Inside line_follower function using the color camera for color detection and following color priority
+22:32:21,115 root INFO Inside line_follower function using the color camera for color detection and following color priority
+22:32:21,209 root INFO Inside line_follower function using the color camera for color detection and following color priority
+22:32:21,311 root INFO Inside line_follower function using the color camera for color detection and following color priority
+22:32:21,410 root INFO Inside line_follower function using the color camera for color detection and following color priority
+22:32:21,506 root INFO Inside line_follower function using the color camera for color detection and following color priority
+22:32:21,603 root INFO Inside line_follower function using the color camera for color detection and following color priority
+22:32:21,699 root INFO Inside line_follower function using the color camera for color detection and following color priority
+22:32:21,810 root INFO Inside line_follower function using the color camera for color detection and following color priority
+22:32:21,910 root INFO Inside line_follower function using the color camera for color detection and following color priority
+22:32:22,13 root INFO Inside line_follower function using the color camera for color detection and following color priority
+22:32:22,104 root INFO Inside line_follower function using the color camera for color detection and following color priority
+22:32:22,202 root INFO Inside line_follower function using the color camera for color detection and following color priority
+22:32:22,302 root INFO Inside line_follower function using the color camera for color detection and following color priority
+22:32:22,401 root INFO Inside line_follower function using the color camera for color detection and following color priority
+22:32:22,501 root INFO Inside line_follower function using the color camera for color detection and following color priority
+22:32:22,599 root INFO Inside line_follower function using the color camera for color detection and following color priority
+22:32:22,687 root INFO Inside line_follower function using the color camera for color detection and following color priority
+22:32:22,817 root INFO Inside line_follower function using the color camera for color detection and following color priority
+22:32:22,928 root INFO Inside line_follower function using the color camera for color detection and following color priority
+22:32:23,29 root INFO Inside line_follower function using the color camera for color detection and following color priority
+22:32:23,128 root INFO Inside line_follower function using the color camera for color detection and following color priority
+22:32:23,229 root INFO Inside line_follower function using the color camera for color detection and following color priority
+22:32:23,329 root INFO Inside line_follower function using the color camera for color detection and following color priority
+22:32:23,424 root INFO Inside line_follower function using the color camera for color detection and following color priority
+22:32:23,517 root INFO Inside line_follower function using the color camera for color detection and following color priority
+22:32:23,614 root INFO Inside line_follower function using the color camera for color detection and following color priority
+22:32:23,714 root INFO Inside line_follower function using the color camera for color detection and following color priority
+22:32:23,805 root INFO Inside line_follower function using the color camera for color detection and following color priority
+22:32:23,910 root INFO Inside line_follower function using the color camera for color detection and following color priority
+22:32:24,11 root INFO Inside line_follower function using the color camera for color detection and following color priority
+22:32:24,115 root INFO Inside line_follower function using the color camera for color detection and following color priority
+22:32:24,205 root INFO Inside line_follower function using the color camera for color detection and following color priority
+22:32:24,307 root INFO Inside line_follower function using the color camera for color detection and following color priority
+22:32:24,412 root INFO Inside line_follower function using the color camera for color detection and following color priority
+22:32:24,517 root INFO Inside line_follower function using the color camera for color detection and following color priority
+22:32:24,616 root INFO Inside line_follower function using the color camera for color detection and following color priority
+22:32:24,709 root INFO Inside line_follower function using the color camera for color detection and following color priority
+22:32:24,811 root INFO Inside line_follower function using the color camera for color detection and following color priority
+22:32:24,911 root INFO Inside line_follower function using the color camera for color detection and following color priority
+22:32:25,8 root INFO Inside line_follower function using the color camera for color detection and following color priority
+22:32:25,116 root INFO Inside line_follower function using the color camera for color detection and following color priority
+22:32:25,208 root INFO Inside line_follower function using the color camera for color detection and following color priority
+22:32:25,334 root INFO Inside line_follower function using the color camera for color detection and following color priority
+22:32:25,438 root INFO Inside line_follower function using the color camera for color detection and following color priority
+22:32:25,538 root INFO Inside line_follower function using the color camera for color detection and following color priority
+22:32:25,648 root INFO Inside line_follower function using the color camera for color detection and following color priority
+22:32:25,744 root INFO Inside line_follower function using the color camera for color detection and following color priority
+22:32:25,835 root INFO Inside line_follower function using the color camera for color detection and following color priority
+22:32:25,939 root INFO Inside line_follower function using the color camera for color detection and following color priority
+22:32:26,30 root INFO Inside line_follower function using the color camera for color detection and following color priority
+22:32:26,134 root INFO Inside line_follower function using the color camera for color detection and following color priority
+22:32:26,244 root INFO Inside line_follower function using the color camera for color detection and following color priority
+22:32:26,335 root INFO Inside line_follower function using the color camera for color detection and following color priority
+22:32:26,440 root INFO Inside line_follower function using the color camera for color detection and following color priority
+22:32:26,544 root INFO Inside line_follower function using the color camera for color detection and following color priority
+22:32:26,639 root INFO Inside line_follower function using the color camera for color detection and following color priority
+22:32:26,741 root INFO Inside line_follower function using the color camera for color detection and following color priority
+22:32:26,844 root INFO Inside line_follower function using the color camera for color detection and following color priority
+22:32:26,964 root INFO Inside line_follower function using the color camera for color detection and following color priority
+22:32:27,70 root INFO Inside line_follower function using the color camera for color detection and following color priority
+22:32:27,171 root INFO Inside line_follower function using the color camera for color detection and following color priority
+22:32:27,268 root INFO Inside line_follower function using the color camera for color detection and following color priority
+22:32:27,364 root INFO Inside line_follower function using the color camera for color detection and following color priority
+22:32:27,467 root INFO Inside line_follower function using the color camera for color detection and following color priority
+22:32:27,568 root INFO Inside line_follower function using the color camera for color detection and following color priority
+22:32:27,672 root INFO Inside line_follower function using the color camera for color detection and following color priority
+22:32:27,776 root INFO Inside line_follower function using the color camera for color detection and following color priority
+22:32:27,866 root INFO Inside line_follower function using the color camera for color detection and following color priority
+22:32:27,972 root INFO Inside line_follower function using the color camera for color detection and following color priority
+22:32:28,79 root INFO Inside line_follower function using the color camera for color detection and following color priority
+22:32:28,186 root INFO Inside line_follower function using the color camera for color detection and following color priority
+22:32:28,287 root INFO Inside line_follower function using the color camera for color detection and following color priority
+22:32:28,384 root INFO Inside line_follower function using the color camera for color detection and following color priority
+22:32:28,488 root INFO Inside line_follower function using the color camera for color detection and following color priority
+22:32:28,595 root INFO Inside line_follower function using the color camera for color detection and following color priority
+22:32:28,718 root INFO Inside line_follower function using the color camera for color detection and following color priority
+22:32:28,864 root INFO Inside Avoiding Walls function by using Lidar
+22:32:28,984 root INFO Inside Avoiding Walls function by using Lidar
+22:32:29,97 root INFO Inside Avoiding Walls function by using Lidar
+22:32:29,211 root INFO Detecting AR Marker which tell us to switch to avoid Natural colored obstacles
+22:32:29,212 root INFO Inside Avoiding Walls function by using Lidar
+22:32:29,325 root INFO Detecting AR Marker which tell us to switch to avoid Natural colored obstacles
+22:32:29,326 root INFO Inside Avoiding Walls function by using Lidar
+22:32:29,458 root INFO Inside Avoiding Walls function by using Lidar
+22:32:29,560 root INFO Inside Avoiding Walls function by using Lidar
+22:32:29,676 root INFO Inside Avoiding Walls function by using Lidar
+22:32:29,783 root INFO Inside Avoiding Walls function by using Lidar
+22:32:29,889 root INFO Inside Avoiding Walls function by using Lidar
+22:32:30,7 root INFO Inside Avoiding Walls function by using Lidar
+22:32:30,116 root INFO Inside Avoiding Walls function by using Lidar
+22:32:30,226 root INFO Inside Avoiding Walls function by using Lidar
+22:32:30,333 root INFO Inside Avoiding Walls function by using Lidar
+22:32:30,438 root INFO Inside Avoiding Walls function by using Lidar
+22:32:30,558 root INFO Inside Avoiding Walls function by using Lidar
+22:32:30,666 root INFO Inside Avoiding Walls function by using Lidar
+22:32:30,782 root INFO Inside Avoiding Walls function by using Lidar
+22:32:30,892 root INFO Inside Avoiding Walls function by using Lidar
+22:32:31,24 root INFO Inside Avoiding Walls function by using Lidar
+22:32:31,145 root INFO Inside Avoiding Walls function by using Lidar
+22:32:31,264 root INFO Inside Avoiding Walls function by using Lidar
+22:32:31,381 root INFO Inside Avoiding Walls function by using Lidar
+22:32:31,524 root INFO Inside Avoiding Walls function by using Lidar
+22:32:31,629 root INFO Inside Avoiding Walls function by using Lidar
+22:32:31,741 root INFO Inside Avoiding Walls function by using Lidar
+22:32:31,852 root INFO Inside Avoiding Walls function by using Lidar
+22:32:31,958 root INFO Inside Avoiding Walls function by using Lidar
+22:32:32,92 root INFO Inside Avoiding Walls function by using Lidar
+22:32:32,221 root INFO Inside Avoiding Walls function by using Lidar
+22:32:32,341 root INFO Inside Avoiding Walls function by using Lidar
+22:32:32,448 root INFO Inside Avoiding Walls function by using Lidar
+22:32:32,566 root INFO Inside Avoiding Walls function by using Lidar
+22:32:32,694 root INFO Inside Avoiding Walls function by using Lidar
+22:32:32,814 root INFO Inside Avoiding Walls function by using Lidar
+22:32:32,912 root INFO Inside Avoiding Walls function by using Lidar
+22:32:33,16 root INFO Inside Avoiding Walls function by using Lidar
+22:32:33,133 root INFO Inside Avoiding Walls function by using Lidar
+22:32:33,240 root INFO Inside Avoiding Walls function by using Lidar
+22:32:33,350 root INFO Inside Avoiding Walls function by using Lidar
+22:32:33,447 root INFO Inside Avoiding Walls function by using Lidar
+22:32:33,549 root INFO Inside Avoiding Walls function by using Lidar
+22:32:33,662 root INFO Inside Avoiding Walls function by using Lidar
+22:32:33,772 root INFO Inside Avoiding Walls function by using Lidar
+22:32:33,884 root INFO Inside Avoiding Walls function by using Lidar
+22:32:34,4 root INFO Inside Avoiding Walls function by using Lidar
+22:32:34,113 root INFO Inside Avoiding Walls function by using Lidar
+22:32:34,218 root INFO Inside Avoiding Walls function by using Lidar
+22:32:34,321 root INFO Inside Avoiding Walls function by using Lidar
+22:32:34,454 root INFO Inside Avoiding Walls function by using Lidar
+22:32:34,577 root INFO Inside Avoiding Walls function by using Lidar
+22:32:34,677 root INFO Inside Avoiding Walls function by using Lidar
+22:32:34,783 root INFO Inside Avoiding Walls function by using Lidar
+22:32:34,894 root INFO Inside Avoiding Walls function by using Lidar
+22:32:35,24 root INFO Inside Avoiding Walls function by using Lidar
+22:32:35,128 root INFO Inside Avoiding Walls function by using Lidar
+22:32:35,248 root INFO Inside Avoiding Walls function by using Lidar
+22:32:35,356 root INFO Inside Avoiding Walls function by using Lidar
+22:32:35,474 root INFO Inside Avoiding Walls function by using Lidar
+22:32:35,621 root INFO Inside Avoiding Walls function by using Lidar
+22:32:35,726 root INFO Inside Avoiding Walls function by using Lidar
+22:32:35,848 root INFO Inside Avoiding Walls function by using Lidar
+22:32:35,958 root INFO Inside Avoiding Walls function by using Lidar
+22:32:36,67 root INFO Inside Avoiding Walls function by using Lidar
+22:32:36,179 root INFO Inside Avoiding Walls function by using Lidar
+22:32:36,288 root INFO Inside Avoiding Walls function by using Lidar
+22:32:36,400 root INFO Inside Avoiding Walls function by using Lidar
+22:32:36,516 root INFO Inside Avoiding Walls function by using Lidar
+22:32:36,624 root INFO Inside Avoiding Walls function by using Lidar
+22:32:36,734 root INFO Inside Avoiding Walls function by using Lidar
+22:32:36,843 root INFO Inside Avoiding Walls function by using Lidar
+22:32:36,954 root INFO Inside Avoiding Walls function by using Lidar
+22:32:37,63 root INFO Inside Avoiding Walls function by using Lidar
+22:32:37,173 root INFO Inside Avoiding Walls function by using Lidar
+22:32:37,288 root INFO Inside Avoiding Walls function by using Lidar
+22:32:37,401 root INFO Inside Avoiding Walls function by using Lidar
+22:32:37,536 root INFO Inside Avoiding Walls function by using Lidar
+22:32:37,644 root INFO Inside Avoiding Walls function by using Lidar
+22:32:37,766 root INFO Inside Avoiding Walls function by using Lidar
+22:32:37,888 root INFO Inside Avoiding Walls function by using Lidar
+22:32:37,989 root INFO Inside Avoiding Walls function by using Lidar
+22:32:38,101 root INFO Inside Avoiding Walls function by using Lidar
+22:32:38,246 root INFO Inside Avoiding Walls function by using Lidar
+22:32:38,359 root INFO Inside Avoiding Walls function by using Lidar
+22:32:38,470 root INFO Inside Avoiding Walls function by using Lidar
+22:32:38,578 root INFO Inside Avoiding Walls function by using Lidar
+22:32:38,680 root INFO Inside Avoiding Walls function by using Lidar
+22:32:38,781 root INFO Inside Avoiding Walls function by using Lidar
+22:32:38,890 root INFO Inside Avoiding Walls function by using Lidar
+22:32:39,4 root INFO Inside Avoiding Walls function by using Lidar
+22:32:39,111 root INFO Inside Avoiding Walls function by using Lidar
+22:32:39,217 root INFO Inside Avoiding Walls function by using Lidar
+22:32:39,347 root INFO Inside Avoiding Walls function by using Lidar
+22:32:39,455 root INFO Inside Avoiding Walls function by using Lidar
+22:32:39,568 root INFO Inside Avoiding Walls function by using Lidar
+22:32:39,687 root INFO Inside Avoiding Walls function by using Lidar
+22:32:39,801 root INFO Inside Avoiding Walls function by using Lidar
+22:32:39,922 root INFO Inside Avoiding Walls function by using Lidar
+22:32:40,39 root INFO Inside Avoiding Walls function by using Lidar
+22:32:40,155 root INFO Inside Avoiding Walls function by using Lidar
+22:32:40,285 root INFO Inside Avoiding Walls function by using Lidar
+22:32:40,414 root INFO Inside Avoiding Walls function by using Lidar
+22:32:40,524 root INFO Inside Avoiding Walls function by using Lidar
+22:32:40,630 root INFO Inside Avoiding Walls function by using Lidar
+22:32:40,732 root INFO Inside Avoiding Walls function by using Lidar
+22:32:40,845 root INFO Inside Avoiding Walls function by using Lidar
+22:32:40,944 root INFO Inside Avoiding Walls function by using Lidar
+22:32:41,53 root INFO Inside Avoiding Walls function by using Lidar
+22:32:41,164 root INFO Inside Avoiding Walls function by using Lidar
+22:32:41,298 root INFO Inside Avoiding Walls function by using Lidar
+22:32:41,407 root INFO Inside Avoiding Walls function by using Lidar
+22:32:41,519 root INFO Inside Avoiding Walls function by using Lidar
+22:32:41,632 root INFO Inside Avoiding Walls function by using Lidar
+22:32:41,736 root INFO Inside Avoiding Walls function by using Lidar
+22:32:41,848 root INFO Inside Avoiding Walls function by using Lidar
+22:32:41,977 root INFO Inside Avoiding Walls function by using Lidar
+22:32:42,86 root INFO Inside Avoiding Walls function by using Lidar
+22:32:42,195 root INFO Inside Avoiding Walls function by using Lidar
+22:32:42,312 root INFO Inside Avoiding Walls function by using Lidar
+22:32:42,423 root INFO Inside Avoiding Walls function by using Lidar
+22:32:42,521 root INFO Inside Avoiding Walls function by using Lidar
+22:32:42,627 root INFO Inside Avoiding Walls function by using Lidar
+22:32:42,729 root INFO Inside Avoiding Walls function by using Lidar
+22:32:42,845 root INFO Inside Avoiding Walls function by using Lidar
+22:32:42,954 root INFO Inside Avoiding Walls function by using Lidar
+22:32:43,56 root INFO Inside Avoiding Walls function by using Lidar
+22:32:43,163 root INFO Inside Avoiding Walls function by using Lidar
+22:32:43,268 root INFO Inside Avoiding Walls function by using Lidar
+22:32:43,377 root INFO Inside Avoiding Walls function by using Lidar
+22:32:43,477 root INFO Inside Avoiding Walls function by using Lidar
+22:32:43,583 root INFO Inside Avoiding Walls function by using Lidar
+22:32:43,698 root INFO Inside Avoiding Walls function by using Lidar
+22:32:43,806 root INFO Inside Avoiding Walls function by using Lidar
+22:32:43,909 root INFO Inside Avoiding Walls function by using Lidar
+22:32:44,17 root INFO Inside Avoiding Walls function by using Lidar
+22:32:44,123 root INFO Inside Avoiding Walls function by using Lidar
+22:32:44,231 root INFO Inside Avoiding Walls function by using Lidar
+22:32:44,332 root INFO Inside Avoiding Walls function by using Lidar
+22:32:44,445 root INFO Inside Avoiding Walls function by using Lidar
+22:32:44,546 root INFO Inside Avoiding Walls function by using Lidar
+22:32:44,650 root INFO Inside Avoiding Walls function by using Lidar
+22:32:44,757 root INFO Inside Avoiding Walls function by using Lidar
+22:32:44,862 root INFO Inside Avoiding Walls function by using Lidar
+22:32:44,974 root INFO Inside Avoiding Walls function by using Lidar
+22:32:45,75 root INFO Inside Avoiding Walls function by using Lidar
+22:32:45,184 root INFO Inside Avoiding Walls function by using Lidar
+22:32:45,283 root INFO Inside Avoiding Walls function by using Lidar
+22:32:45,395 root INFO Inside Avoiding Walls function by using Lidar
+22:32:45,495 root INFO Inside Avoiding Walls function by using Lidar
+22:32:45,604 root INFO Inside Avoiding Walls function by using Lidar
+22:32:45,705 root INFO Inside Avoiding Walls function by using Lidar
+22:32:45,803 root INFO Inside Avoiding Walls function by using Lidar
+22:32:45,914 root INFO Inside Avoiding Walls function by using Lidar
+22:32:46,21 root INFO Inside Avoiding Walls function by using Lidar
+22:32:46,130 root INFO Inside Avoiding Walls function by using Lidar
+22:32:46,226 root INFO Inside Avoiding Walls function by using Lidar
+22:32:46,324 root INFO Inside Avoiding Walls function by using Lidar
+22:32:46,440 root INFO Inside Avoiding Walls function by using Lidar
+22:32:46,540 root INFO Inside Avoiding Walls function by using Lidar
+22:32:46,649 root INFO Inside Avoiding Walls function by using Lidar
+22:32:46,758 root INFO Inside Avoiding Walls function by using Lidar
+22:32:46,885 root INFO Inside Avoiding Walls function by using Lidar
+22:32:46,987 root INFO Inside Avoiding Walls function by using Lidar
+22:32:47,94 root INFO Inside Avoiding Walls function by using Lidar
+22:32:47,204 root INFO Inside Avoiding Walls function by using Lidar
+22:32:47,304 root INFO Inside Avoiding Walls function by using Lidar
+22:32:47,402 root INFO Inside Avoiding Walls function by using Lidar
+22:32:47,510 root INFO Inside Avoiding Walls function by using Lidar
+22:32:47,624 root INFO Inside Avoiding Walls function by using Lidar
+22:32:47,721 root INFO Inside Avoiding Walls function by using Lidar
+22:32:47,843 root INFO Inside Avoiding Walls function by using Lidar
+22:32:47,963 root INFO Inside Avoiding Walls function by using Lidar
+22:32:48,69 root INFO Inside Avoiding Walls function by using Lidar
+22:32:48,172 root INFO Inside Avoiding Walls function by using Lidar
+22:32:48,271 root INFO Inside Avoiding Walls function by using Lidar
+22:32:48,375 root INFO Inside Avoiding Walls function by using Lidar
+22:32:48,482 root INFO Inside Avoiding Walls function by using Lidar
+22:32:48,594 root INFO Inside Avoiding Walls function by using Lidar
+22:32:48,710 root INFO Inside Avoiding Walls function by using Lidar
+22:32:48,822 root INFO Inside Avoiding Walls function by using Lidar
+22:32:48,926 root INFO Inside Avoiding Walls function by using Lidar
+22:32:49,37 root INFO Inside Avoiding Walls function by using Lidar
+22:32:49,131 root INFO Inside Avoiding Walls function by using Lidar
+22:32:49,235 root INFO Inside Avoiding Walls function by using Lidar
+22:32:49,334 root INFO Inside Avoiding Walls function by using Lidar
+22:32:49,439 root INFO Inside Avoiding Walls function by using Lidar
+22:32:49,537 root INFO Inside Avoiding Walls function by using Lidar
+22:32:49,638 root INFO Inside Avoiding Walls function by using Lidar
+22:32:49,734 root INFO Inside Avoiding Walls function by using Lidar
+22:32:49,841 root INFO Inside Avoiding Walls function by using Lidar
+22:32:49,944 root INFO Inside Avoiding Walls function by using Lidar
+22:32:50,47 root INFO Inside Avoiding Walls function by using Lidar
+22:32:50,145 root INFO Inside Avoiding Walls function by using Lidar
+22:32:50,245 root INFO Inside Avoiding Walls function by using Lidar
+22:32:50,350 root INFO Inside Avoiding Walls function by using Lidar
+22:32:50,446 root INFO Inside Avoiding Walls function by using Lidar
+22:32:50,543 root INFO Inside Avoiding Walls function by using Lidar
+22:32:50,649 root INFO Inside Avoiding Walls function by using Lidar
+22:32:50,752 root INFO Inside Avoiding Walls function by using Lidar
+22:32:50,856 root INFO Inside Avoiding Walls function by using Lidar
+22:32:50,961 root INFO Inside Avoiding Walls function by using Lidar
+22:32:51,64 root INFO Inside Avoiding Walls function by using Lidar
+22:32:51,160 root INFO Inside Avoiding Walls function by using Lidar
+22:32:51,263 root INFO Inside Avoiding Walls function by using Lidar
+22:32:51,362 root INFO Inside Avoiding Walls function by using Lidar
+22:32:51,458 root INFO Inside Avoiding Walls function by using Lidar
+22:32:51,557 root INFO Inside Avoiding Walls function by using Lidar
+22:32:51,659 root INFO Inside Avoiding Walls function by using Lidar
+22:32:51,761 root INFO Inside Avoiding Walls function by using Lidar
+22:32:51,866 root INFO Inside Avoiding Walls function by using Lidar
+22:32:51,962 root INFO Inside Avoiding Walls function by using Lidar
+22:32:52,66 root INFO Inside Avoiding Walls function by using Lidar
+22:32:52,166 root INFO Inside Avoiding Walls function by using Lidar
+22:32:52,259 root INFO Inside Avoiding Walls function by using Lidar
+22:32:52,377 root INFO Inside Avoiding Walls function by using Lidar
+22:32:52,501 root INFO Inside Avoiding Walls function by using Lidar
+22:32:52,644 root INFO Inside Avoiding Walls function by using Lidar
+22:32:52,751 root INFO Inside Avoiding Walls function by using Lidar
+22:32:52,849 root INFO Inside Avoiding Walls function by using Lidar
+22:32:52,950 root INFO Inside Avoiding Walls function by using Lidar
+22:32:53,51 root INFO Inside Avoiding Walls function by using Lidar
+22:32:53,149 root INFO Inside Avoiding Walls function by using Lidar
+22:32:53,250 root INFO Inside Avoiding Walls function by using Lidar
+22:32:53,362 root INFO Inside Avoiding Walls function by using Lidar
+22:32:53,486 root INFO Inside Avoiding Walls function by using Lidar
+22:32:53,581 root INFO Inside Avoiding Walls function by using Lidar
+22:32:53,687 root INFO Inside Avoiding Walls function by using Lidar
+22:32:53,794 root INFO Inside Avoiding Walls function by using Lidar
+22:32:53,901 root INFO Inside Avoiding Walls function by using Lidar
+22:32:54,29 root INFO Inside Avoiding Walls function by using Lidar
+22:32:54,126 root INFO Inside Avoiding Walls function by using Lidar
+22:32:54,233 root INFO Inside Avoiding Walls function by using Lidar
+22:32:54,351 root INFO Inside Avoiding Walls function by using Lidar
+22:32:54,479 root INFO Inside Avoiding Walls function by using Lidar
+22:32:54,592 root INFO Inside Avoiding Walls function by using Lidar
+22:32:54,698 root INFO Inside Avoiding Walls function by using Lidar
+22:32:54,808 root INFO Inside Avoiding Walls function by using Lidar
+22:32:54,915 root INFO Inside Avoiding Walls function by using Lidar
+22:32:55,26 root INFO Inside Avoiding Walls function by using Lidar
+22:32:55,132 root INFO Inside Avoiding Walls function by using Lidar
+22:32:55,246 root INFO Inside Avoiding Walls function by using Lidar
+22:32:55,361 root INFO Inside Avoiding Walls function by using Lidar
+22:32:55,489 root INFO Inside Avoiding Walls function by using Lidar
+22:32:55,607 root INFO Inside Avoiding Walls function by using Lidar
+22:32:55,707 root INFO Inside Avoiding Walls function by using Lidar
+22:32:55,817 root INFO Inside Avoiding Walls function by using Lidar
+22:32:55,922 root INFO Inside Avoiding Walls function by using Lidar
+22:32:56,31 root INFO Inside Avoiding Walls function by using Lidar
+22:32:56,130 root INFO Inside Avoiding Walls function by using Lidar
+22:32:56,230 root INFO Inside Avoiding Walls function by using Lidar
+22:32:56,332 root INFO Inside Avoiding Walls function by using Lidar

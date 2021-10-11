@@ -1,0 +1,122 @@
+{
+ "cells": [
+  {
+   "cell_type": "code",
+   "execution_count": 5,
+   "id": "6a099567",
+   "metadata": {},
+   "outputs": [
+    {
+     "name": "stdout",
+     "output_type": "stream",
+     "text": [
+      "Defaulting to user installation because normal site-packages is not writeable\n",
+      "\u001b[31mERROR: Could not find a version that satisfies the requirement filterOnePole (from versions: none)\u001b[0m\n",
+      "\u001b[31mERROR: No matching distribution found for filterOnePole\u001b[0m\n",
+      "\u001b[33mWARNING: You are using pip version 21.1.3; however, version 21.2.4 is available.\n",
+      "You should consider upgrading via the '/usr/bin/python3 -m pip install --upgrade pip' command.\u001b[0m\n",
+      "Note: you may need to restart the kernel to use updated packages.\n"
+     ]
+    }
+   ],
+   "source": [
+    "#ifndef FilterOnePole_h\n",
+    "#define FilterOnePole_h\n",
+    "\n",
+    "#include <Arduino.h>\n",
+    "\n",
+    "enum FILTER_TYPE {\n",
+    "  HIGHPASS,\n",
+    "  LOWPASS,\n",
+    "  INTEGRATOR,\n",
+    "  DIFFERENTIATOR\n",
+    "};\n",
+    "\n",
+    "// the recursive filter class implements a recursive filter (low / pass / highpass\n",
+    "// note that this must be updated in a loop, using the most recent acquired values and the time acquired\n",
+    "//   Y = a0*X + a1*Xm1\n",
+    "//              + b1*Ylast\n",
+    "struct FilterOnePole {\n",
+    "  FILTER_TYPE FT;\n",
+    "  float TauUS;       // decay constant of the filter, in US\n",
+    "  float TauSamps;    // tau, measued in samples (this changes, depending on how long between input()s\n",
+    "\n",
+    "  // filter values - these are public, but should not be set externally\n",
+    "  float Y;       // most recent output value (gets computed on update)\n",
+    "  float Ylast;   // prevous output value\n",
+    "\n",
+    "  float X;      // most recent input value\n",
+    "\n",
+    "  // elapsed times are kept in long, and will wrap every\n",
+    "  // 35 mins, 47 seconds ... however, the wrap does not matter,\n",
+    "  // because the delta will still be correct (always positive and small)\n",
+    "  float ElapsedUS;   // time since last update\n",
+    "  long LastUS;       // last time measured\n",
+    "\n",
+    "  FilterOnePole( FILTER_TYPE ft=LOWPASS, float fc=1.0, float initialValue=0 );\n",
+    "  \n",
+    "  // sets or resets the parameters and state of the filter\n",
+    "  void setFilter( FILTER_TYPE ft, float frequency, float initialValue=0 );\n",
+    "\n",
+    "  void setFrequency( float newFrequency );\n",
+    "  \n",
+    "  void setTau( float newTau );\n",
+    "\n",
+    "  float input( float inVal );\n",
+    "\n",
+    "  float output();\n",
+    "\n",
+    "  void print();\n",
+    "\n",
+    "  void test();\n",
+    "  \n",
+    "  void setToNewValue( float newVal );  // resets the filter to a new value\n",
+    "};\n",
+    "\n",
+    "// two pole filter, these are very useful\n",
+    "struct FilterOnePoleCascade {\n",
+    "\n",
+    "  FilterOnePole Pole1;\n",
+    "  FilterOnePole Pole2;\n",
+    "  \n",
+    "  FilterOnePoleCascade( float riseTime=1.0, float initialValue=0 );  // rise time to step function, 10% to 90%\n",
+    "  \n",
+    "  // rise time is 10% to 90%, for a step input\n",
+    "  void setRiseTime( float riseTime );\n",
+    "  \n",
+    "  void setToNewValue( float newVal );\n",
+    "  \n",
+    "  float input( float inVal );\n",
+    "  \n",
+    "  float output();\n",
+    "  \n",
+    "  void test();\n",
+    "};\n",
+    "\n",
+    "\n",
+    "#endif"
+   ]
+  }
+ ],
+ "metadata": {
+  "kernelspec": {
+   "display_name": "Python 3",
+   "language": "python",
+   "name": "python3"
+  },
+  "language_info": {
+   "codemirror_mode": {
+    "name": "ipython",
+    "version": 3
+   },
+   "file_extension": ".py",
+   "mimetype": "text/x-python",
+   "name": "python",
+   "nbconvert_exporter": "python",
+   "pygments_lexer": "ipython3",
+   "version": "3.8.5"
+  }
+ },
+ "nbformat": 4,
+ "nbformat_minor": 5
+}
